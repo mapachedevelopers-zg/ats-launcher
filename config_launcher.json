@@ -1,0 +1,22 @@
+{
+    "url_launcher_data": "https://raw.githubusercontent.com/mapachedevelopers-zg/ats-launcher/main/datos/launcher_data.json",
+    "recursos": {
+        "logo": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/_LOGOXTRINKLEON.png",
+        "qr": "",
+        "paypal": "",
+        "red:YouTube": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/youtube.png",
+        "red:Facebook": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/facebook.png",
+        "red:Discord": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/discord.png",
+        "orden": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/orden.png"
+    },
+    "url_emisoras_github": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/live_streams.sii",
+    "donaciones": {
+        "cuenta_breb": "",
+        "paypal_url": ""
+    },
+    "redes": {
+        "youtube": "",
+        "facebook": "",
+        "discord": ""
+    }
+}
