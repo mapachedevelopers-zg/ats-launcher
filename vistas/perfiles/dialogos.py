@@ -478,8 +478,8 @@ class DialogoCamionesUsados(QDialog):
                 if self.callback_refrescar:
                     self.callback_refrescar(self.datos_partida)
             self._construir_lista()
-            target_btn = self.btn_variados if boton is self.btn_variados else self.btn_variados
-            if self.btn_variados.isEnabled():
+            target_btn = boton if boton else self.btn_variados
+            if target_btn and target_btn.isEnabled():
                 notificar_exito_boton(target_btn, texto_exito)
         else:
             self._construir_lista()

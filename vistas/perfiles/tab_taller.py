@@ -93,7 +93,7 @@ class TabTallerMixin:
         self.lbl_placa_tit.setStyleSheet(f'color: {TXT_PRINCIPAL}; font-size: 13px; font-weight: bold; border: none;')
 
         self.txt_placa_texto = QLineEdit()
-        self.txt_placa_texto.setPlaceholderText('Ej: XTRINK')
+        self.txt_placa_texto.setPlaceholderText('Ej: CHASIS')
         self.txt_placa_texto.setFixedHeight(32)
         self.txt_placa_texto.setStyleSheet(self._estilo_input())
         self.txt_placa_texto.returnPressed.connect(self._action_guardar_placa)

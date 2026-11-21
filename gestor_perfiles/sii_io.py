@@ -21,6 +21,11 @@ if os.name == 'nt':
     _TH32CS_SNAPPROCESS = 2
     _INVALID_HANDLE_VALUE = ctypes.c_void_p(-1).value
     _KERNEL32 = ctypes.windll.kernel32
+    try:
+        _KERNEL32.CreateToolhelp32Snapshot.restype = _wt.HANDLE
+        _KERNEL32.CloseHandle.argtypes = [_wt.HANDLE]
+    except Exception:
+        pass
 
     class _PROCESSENTRY32W(ctypes.Structure):
         _fields_ = [
@@ -180,7 +185,7 @@ def _juego_abierto_win32() -> bool | None:
     if _KERNEL32 is None:
         return None
     snap = _KERNEL32.CreateToolhelp32Snapshot(_TH32CS_SNAPPROCESS, 0)
-    if snap == _INVALID_HANDLE_VALUE:
+    if not snap or snap == _INVALID_HANDLE_VALUE:
         return None
     try:
         pe = _PROCESSENTRY32W()
@@ -195,7 +200,11 @@ def _juego_abierto_win32() -> bool | None:
     except Exception:
         return None
     finally:
-        _KERNEL32.CloseHandle(snap)
+        if snap and snap != _INVALID_HANDLE_VALUE:
+            try:
+                _KERNEL32.CloseHandle(snap)
+            except Exception:
+                pass
 
 
 def verificar_juego_cerrado() -> tuple[bool, str]:

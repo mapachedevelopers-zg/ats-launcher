@@ -21,6 +21,7 @@ def clonar_perfil_ats(ruta_perfil_origen: str, nuevo_nombre: str) -> tuple[bool,
         return False, 'Nombre inválido o contiene caracteres no permitidos.'
 
     nuevo_hex = nombre_limpio.encode('utf-8').hex().upper()
+    ruta_perfil_origen = os.path.normpath(ruta_perfil_origen)
     dir_padre = os.path.dirname(ruta_perfil_origen)
     nueva_ruta = os.path.join(dir_padre, nuevo_hex)
 
@@ -36,13 +37,21 @@ def clonar_perfil_ats(ruta_perfil_origen: str, nuevo_nombre: str) -> tuple[bool,
             shutil.copy2(f_controls_src, f_controls_dst)
 
         f_prof = os.path.join(nueva_ruta, 'profile.sii')
-        desencriptar_archivo_sii(f_prof)
-        if os.path.exists(f_prof):
-            with open(f_prof, 'r', encoding='utf-8', errors='ignore') as f:
-                txt = f.read()
-            txt = re.sub(r'profile_name:\s*".*?"', f'profile_name: "{nombre_limpio}"', txt)
-            with open(f_prof, 'w', encoding='utf-8') as f:
-                f.write(txt)
+        f_bak = os.path.join(nueva_ruta, 'profile.bak.sii')
+        nuevo_val = f'profile_name: "{nombre_limpio}"'
+        for fp in (f_prof, f_bak):
+            if os.path.exists(fp):
+                desencriptar_archivo_sii(fp)
+                with open(fp, 'r', encoding='utf-8', errors='ignore') as f:
+                    txt = f.read()
+                if re.search(r'profile_name:\s*.*', txt):
+                    txt = re.sub(r'profile_name:\s*.*', nuevo_val, txt, count=1)
+                else:
+                    m = re.search(r'(user_profile\s*:\s*[^{]+\{)', txt)
+                    if m:
+                        txt = txt[:m.end()] + f'\n {nuevo_val}' + txt[m.end():]
+                with open(fp, 'w', encoding='utf-8') as f:
+                    f.write(txt)
 
         return True, f"Perfil clonado con éxito como '{nombre_limpio}'."
     except Exception as e:
@@ -59,6 +68,7 @@ def renombrar_perfil_ats(ruta_perfil_origen: str, nuevo_nombre: str) -> tuple[bo
         return False, 'Nombre inválido.'
 
     nuevo_hex = nombre_limpio.encode('utf-8').hex().upper()
+    ruta_perfil_origen = os.path.normpath(ruta_perfil_origen)
     dir_padre = os.path.dirname(ruta_perfil_origen)
     nueva_ruta = os.path.join(dir_padre, nuevo_hex)
 
@@ -121,11 +131,11 @@ def buscar_modulos_de_mapa_en_mods() -> list[dict]:
 
     for item in os.listdir(ruta_mods):
         ruta_item = os.path.join(ruta_mods, item)
-        if item.endswith(('.scs', '.zip')):
+        if item.lower().endswith(('.scs', '.zip')):
             try:
                 with zipfile.ZipFile(ruta_item, 'r') as z:
                     for arch in z.namelist():
-                        if arch.startswith('map/') and arch.endswith('.mbd'):
+                        if arch.lower().startswith('map/') and arch.lower().endswith('.mbd'):
                             modulos.append({'nombre': f'{item} ({os.path.basename(arch)})', 'map_path': f'/{arch}'})
             except Exception:
                 continue
@@ -133,7 +143,7 @@ def buscar_modulos_de_mapa_en_mods() -> list[dict]:
             dir_m = os.path.join(ruta_item, 'map')
             if os.path.exists(dir_m):
                 for f in os.listdir(dir_m):
-                    if f.endswith('.mbd'):
+                    if f.lower().endswith('.mbd'):
                         modulos.append({'nombre': f'{item} ({f})', 'map_path': f'/map/{f}'})
 
     return modulos
@@ -151,10 +161,11 @@ def cambiar_map_path_perfil(ruta_perfil: str, nuevo_map_path: str) -> tuple[bool
         with open(f_profile, 'r', encoding='utf-8', errors='ignore') as f:
             contenido = f.read()
 
-        if 'map_path:' in contenido:
-            contenido = re.sub(r'map_path:\s*".*?"', f'map_path: "{nuevo_map_path}"', contenido)
+        if re.search(r'map_path:\s*.*', contenido):
+            contenido = re.sub(r'map_path:\s*.*', f'map_path: "{nuevo_map_path}"', contenido, count=1)
             with open(f_profile, 'w', encoding='utf-8') as f:
                 f.write(contenido)
+            invalidar_cache_partida(ruta_perfil)
             return True, f"Módulo de mapa actualizado a '{nuevo_map_path}'."
         return False, "No se encontró el parámetro 'map_path:'."
     except Exception as e:

@@ -583,13 +583,13 @@ TRADUCCIONES_ALERTAS = {
         "ru": "Устранены внутренние конфликты с грузовиками базовой игры.",
         "zh": "修复了与原版游戏卡车的内部冲突。",
     },
-    "Agregado nuevo concesionario de XTRINK para carros.": {
-        "en": "Added new XTRINK car dealership.",
-        "pt": "Adicionada nova concessionária de carros XTRINK.",
-        "de": "Neues XTRINK-Autohaus hinzugefügt.",
-        "fr": "Nouveau concessionnaire automobile XTRINK ajouté.",
-        "ru": "Добавлен новый автосалон легковых автомобилей XTRINK.",
-        "zh": "新增 XTRINK 汽车经销商。",
+    "Agregado nuevo concesionario de CHASIS para carros.": {
+        "en": "Added new CHASIS car dealership.",
+        "pt": "Adicionada nova concessionária de carros CHASIS.",
+        "de": "Neues CHASIS-Autohaus hinzugefügt.",
+        "fr": "Nouveau concessionnaire automobile CHASIS ajouté.",
+        "ru": "Добавлен новый автосалон легковых автомобилей CHASIS.",
+        "zh": "新增 CHASIS 汽车经销商。",
     },
     "Agregados botones para descargar y eliminar todos los mods.": {
         "en": "Added buttons to download and delete all mods.",

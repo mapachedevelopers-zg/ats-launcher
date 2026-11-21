@@ -113,22 +113,24 @@ class TabEstabilidadMixin:
             if is_max:
                 if es_susp:
                     tag = tr('Máxima (Rígida)')
-                    info['lbl_estado'].setText(f"{txt_estado} <span style='color: #6EE7B7; font-weight: 700;'>{tag}</span>")
-                    info['btn_toggle'].setText(tr('Poner rigidez normal'))
+                    txt_btn = tr('Poner rigidez normal')
                 else:
                     tag = tr('Máxima (Antivuelco activo)')
-                    info['lbl_estado'].setText(f"{txt_estado} <span style='color: #6EE7B7; font-weight: 700;'>{tag}</span>")
-                    info['btn_toggle'].setText(tr('Poner estabilidad normal'))
+                    txt_btn = tr('Poner estabilidad normal')
+                info['lbl_estado'].setText(f"{txt_estado} <span style='color: #6EE7B7; font-weight: 700;'>{tag}</span>")
+                info['btn_toggle'].setText(txt_btn)
+                info['btn_toggle'].setProperty('texto_base', txt_btn)
                 info['btn_toggle'].setStyleSheet(self._estilo_btn('azul'))
             else:
                 if es_susp:
                     tag = tr('Normal (Estándar)')
-                    info['lbl_estado'].setText(f"{txt_estado} <span style='color: #94A3B8; font-weight: 600;'>{tag}</span>")
-                    info['btn_toggle'].setText(tr('Activar rigidez máxima'))
+                    txt_btn = tr('Activar rigidez máxima')
                 else:
                     tag = tr('Normal (Realista)')
-                    info['lbl_estado'].setText(f"{txt_estado} <span style='color: #94A3B8; font-weight: 600;'>{tag}</span>")
-                    info['btn_toggle'].setText(tr('Activar estabilidad máxima'))
+                    txt_btn = tr('Activar estabilidad máxima')
+                info['lbl_estado'].setText(f"{txt_estado} <span style='color: #94A3B8; font-weight: 600;'>{tag}</span>")
+                info['btn_toggle'].setText(txt_btn)
+                info['btn_toggle'].setProperty('texto_base', txt_btn)
                 info['btn_toggle'].setStyleSheet(self._estilo_btn('verde'))
 
     def _actualizar_idioma_tab_estabilidad(self):

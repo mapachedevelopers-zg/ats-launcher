@@ -62,6 +62,7 @@ def modificar_garaje_individual(ruta_guardado: str, ciudad_id: str, nuevo_status
         return False, contenido
 
     try:
+        nuevo_status = int(nuevo_status)
         patron = rf'^(garage\s*:\s*garage\.{re.escape(ciudad_id)}\s*\{{)(.*?)^(}})'
         m_g = re.search(patron, contenido, re.M | re.S)
         if not m_g:
@@ -105,6 +106,7 @@ def modificar_todos_los_garajes(ruta_guardado: str, nuevo_status: int) -> tuple[
         return False, contenido
 
     try:
+        nuevo_status = int(nuevo_status)
         hq_city = obtener_contexto_jugador(contenido)['hq_city']
         modificados = 0
         omitidos = 0

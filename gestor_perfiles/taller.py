@@ -3,7 +3,6 @@ from gestor_perfiles.saneador import _guardar_contenido_partida_sano
 from gestor_perfiles.sii_io import (
     _encontrar_vehiculo_activo_id,
     abrir_partida_para_edicion,
-    actualizar_metadatos_guardado,
 )
 
 
@@ -86,11 +85,11 @@ def cambiar_placa_camion(ruta_guardado: str, nuevo_texto: str, nuevo_estado: str
             else:
                 nuevo_left = texto_limpio
             nueva_placa_valor = f'{nuevo_left}|{state_final}'
+            vb_nuevo = re.sub(r'\blicense_plate:\s*"[^"]*"', f'license_plate: "{nueva_placa_valor}"', vb, count=1)
         else:
             state_final = estado_limpio if estado_limpio else 'california'
             nueva_placa_valor = f'{texto_limpio}|{state_final}'
-
-        vb_nuevo = re.sub(r'\blicense_plate:\s*"[^"]*"', f'license_plate: "{nueva_placa_valor}"', vb, count=1)
+            vb_nuevo = vb.rstrip() + f'\n license_plate: "{nueva_placa_valor}"\n'
         contenido = contenido[:m_veh.start()] + m_veh.group(1) + vb_nuevo + m_veh.group(3) + contenido[m_veh.end():]
 
         _guardar_contenido_partida_sano(f_game, contenido, ruta_guardado, sanear=False)

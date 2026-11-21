@@ -25,16 +25,16 @@ from gestor_perfiles.sii_io import (
 
 _TIPOS_PURGABLES = {
     'vehicle',
-    'vehicle_accessory',
-    'vehicle_addon_accessory',
-    'vehicle_drv_plate_accessory',
-    'vehicle_paint_job_accessory',
-    'vehicle_sound_accessory',
-    'vehicle_wheel_accessory',
+    'job_info',
+    'bank_loan',
     'profit_log',
     'profit_log_entry',
-    'bank_loan',
-    'job_info',
+    'vehicle_accessory',
+    'vehicle_addon_accessory',
+    'vehicle_sound_accessory',
+    'vehicle_wheel_accessory',
+    'vehicle_drv_plate_accessory',
+    'vehicle_paint_job_accessory',
 }
 
 _RE_REFS_NAMELESS = re.compile('^[ \\t]+[a-z0-9_\\[\\]]+:\\s*(_nameless\\.[0-9a-fA-F\\.]+)', re.M)
@@ -168,7 +168,7 @@ def sanear_y_reparar_partida_sii(contenido: str) -> tuple[str, list[str]]:
                 m_rot = re.search('^[ \\t]*user_mirror_rot:\\s*(\\d+)', body, re.M)
                 rot_val = int(m_rot.group(1)) if m_rot else -1
                 items_rot = len(re.findall('^[ \\t]*user_mirror_rot\\[\\d+\\]:', body, re.M))
-                if rot_val == 0 or (rot_val > 0 and items_rot == 0):
+                if rot_val <= 0 or (rot_val > 0 and items_rot == 0):
                     espejos_reparados += 1
                     if m_rot:
                         body = re.sub(
@@ -471,7 +471,7 @@ def _guardar_contenido_partida_sano(
                 actualizar_metadatos_guardado(ruta_guardado)
         return (True, 'Guardado exitoso')
     except Exception as e:
-        return (False, f'Error al guardar partida saneada: {e}')
+        raise OSError(f'Error al guardar partida saneada: {e}') from e
 
 
 def comprobar_y_reparar_partida_ats(ruta_guardado: str) -> tuple[bool, list[str], str]:
