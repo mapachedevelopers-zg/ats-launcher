@@ -22,7 +22,7 @@ class BarraTituloCustom(QFrame):
         layout.setContentsMargins(15, 0, 0, 0)
         layout.setSpacing(0)
 
-        tit_real = titulo or tr("LAUNCHER DE XTRINK {version}").format(version=VERSION_ACTUAL)
+        tit_real = titulo or tr("LAUNCHER DE CHASIS {version}").format(version=VERSION_ACTUAL)
         self.lbl_titulo = QLabel(tit_real)
         self.lbl_titulo.setObjectName("tituloAppCustom")
 

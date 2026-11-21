@@ -1,8 +1,9 @@
-# ATS Launcher
+# Chasis — Launcher de ATS
 
 Repositorio: https://github.com/mapachedevelopers-zg/ats-launcher
 
 Launcher para American Truck Simulator (Python 3.11 + PySide6), basado en el Launcher de Xtrink 2.2.
+Logo: `recursos/logo_chasis.png` y `logo.ico`, generados con `python herramientas_dev/generar_logo.py`.
 Instala y actualiza mods desde un catálogo en GitHub, gestiona plugins, aplica ajustes al `config.cfg`
 y hace copias de seguridad de perfiles.
 

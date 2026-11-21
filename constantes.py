@@ -8,7 +8,7 @@ import sys
 # ==========================================
 
 VERSION_ACTUAL = '2.2'
-NOMBRE_LAUNCHER = f'LAUNCHER DE XTRINK {VERSION_ACTUAL}'
+NOMBRE_LAUNCHER = f'LAUNCHER DE CHASIS {VERSION_ACTUAL}'
 
 # ==========================================
 # URLS REMOTAS (ofuscadas: base64 + XOR)

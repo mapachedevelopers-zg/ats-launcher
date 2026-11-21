@@ -13,7 +13,7 @@ from PySide6.QtWidgets import (
 )
 
 from estilos import obtener_hoja_estilos
-from temas import guardar_tema_actual
+from temas import guardar_tema_actual, obtener_ruta_recurso
 from updater import comprobar_actualizacion_launcher, aplicar_actualizacion_y_reiniciar
 from constantes import VERSION_ACTUAL, RECURSOS_OFUSCADOS
 from i18n import tr, registrar_observador_idioma, desregistrar_observador_idioma
@@ -84,7 +84,7 @@ class LauncherUI(QMainWindow):
         self._timer_suavizado_val.timeout.connect(
             self._paso_animacion_porcentaje)
 
-        self.setWindowTitle(tr("LAUNCHER DE XTRINK {version}").format(version=VERSION_ACTUAL))
+        self.setWindowTitle(tr("LAUNCHER DE CHASIS {version}").format(version=VERSION_ACTUAL))
         self.resize(1200, 700)
         self.setMinimumSize(900, 600)
 
@@ -229,7 +229,7 @@ class LauncherUI(QMainWindow):
         self.datos_servidor = datos
 
         # Actualizar el título con la versión
-        tit_launcher = tr("LAUNCHER DE XTRINK {version}").format(version=VERSION_ACTUAL)
+        tit_launcher = tr("LAUNCHER DE CHASIS {version}").format(version=VERSION_ACTUAL)
         self.setWindowTitle(tit_launcher)
         if hasattr(self, "barra_titulo") and hasattr(self.barra_titulo, "lbl_titulo"):
             self.barra_titulo.lbl_titulo.setText(tit_launcher)
@@ -339,7 +339,7 @@ class LauncherUI(QMainWindow):
         layout_principal.setContentsMargins(0, 0, 0, 0)
         layout_principal.setSpacing(0)
 
-        tit_launcher = tr("LAUNCHER DE XTRINK {version}").format(version=VERSION_ACTUAL)
+        tit_launcher = tr("LAUNCHER DE CHASIS {version}").format(version=VERSION_ACTUAL)
         self.barra_titulo = BarraTituloCustom(
             self, titulo=tit_launcher)
         layout_principal.addWidget(self.barra_titulo)
@@ -356,10 +356,16 @@ class LauncherUI(QMainWindow):
         menu.setContentsMargins(20, 20, 20, 25)
         menu.setSpacing(14)
 
-        self.logo = QLabel("XTRINK")
+        self.logo = QLabel("CHASIS")
         self.logo.setObjectName("logoLabel")
         self.logo.setAlignment(Qt.AlignCenter)
         self.logo.setFixedSize(160, 145)
+        # CAMBIO: mostrar el logo local de inmediato (luego se sustituye por el remoto si existe)
+        _ruta_logo_local = obtener_ruta_recurso("logo_chasis.png")
+        if os.path.exists(_ruta_logo_local):
+            _pix_logo = QPixmap(_ruta_logo_local).scaled(
+                130, 130, Qt.KeepAspectRatio, Qt.SmoothTransformation)
+            self.logo.setPixmap(_pix_logo)
         menu.addWidget(self.logo)
         menu.addSpacing(20)
 
@@ -426,7 +432,7 @@ class LauncherUI(QMainWindow):
 
     def actualizar_textos_idioma(self):
         """Actualiza los textos de la barra lateral y subcomponentes según el idioma activo."""
-        tit_launcher = tr("LAUNCHER DE XTRINK {version}").format(version=VERSION_ACTUAL)
+        tit_launcher = tr("LAUNCHER DE CHASIS {version}").format(version=VERSION_ACTUAL)
         self.setWindowTitle(tit_launcher)
         if hasattr(self, "barra_titulo") and hasattr(self.barra_titulo, "lbl_titulo"):
             self.barra_titulo.lbl_titulo.setText(tit_launcher)

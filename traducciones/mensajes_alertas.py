@@ -295,13 +295,13 @@ TRADUCCIONES_ALERTAS = {
         "ru": "⌨️ Меню / Настройка: Supr\n  • Водитель: Numpad 5\n  • Пассажир: Numpad 3\n  • Стоя: Numpad 2\n  • Диван: Numpad 1",
         "zh": "⌨️ 菜单 / 配置: Supr\n  • 驾驶员: Numpad 5\n  • 副驾驶: Numpad 3\n  • 站立: Numpad 2\n  • 沙发: Numpad 1",
     },
-    "Dorado Xtrink": {
-        "en": "Xtrink Gold",
-        "pt": "Dourado Xtrink",
-        "de": "Xtrink Gold",
-        "fr": "Or Xtrink",
-        "ru": "Золотой Xtrink",
-        "zh": "Xtrink 金色",
+    "Dorado Chasis": {
+        "en": "Chasis Gold",
+        "pt": "Dourado Chasis",
+        "de": "Chasis Gold",
+        "fr": "Or Chasis",
+        "ru": "Золотой Chasis",
+        "zh": "Chasis 金色",
     },
     "Azul Eléctrico": {
         "en": "Electric Blue",
@@ -407,13 +407,13 @@ TRADUCCIONES_ALERTAS = {
         "ru": "1. Характер проекта и интеллектуальная собственность",
         "zh": "1. 项目性质与知识产权",
     },
-    "El Launcher de XTRINK es una herramienta comunitaria e independiente desarrollada por aficionados (fan-made) con el fin de facilitar la gestión y descarga de modificaciones para American Truck Simulator.\n\nAmerican Truck Simulator y sus respectivos logotipos, marcas y contenidos son propiedad exclusiva de SCS Software. Este software no está afiliado, respaldado ni patrocinado por SCS Software ni por los fabricantes reales de vehículos o accesorios representados en el juego. Todas las marcas registradas pertenecen a sus respectivos dueños.": {
-        "en": "The XTRINK Launcher is a community, independent fan-made tool created to facilitate managing and downloading mods for American Truck Simulator.\n\nAmerican Truck Simulator and its respective logos, brands, and content are the exclusive property of SCS Software. This software is not affiliated with, endorsed by, or sponsored by SCS Software or the real-world vehicle or accessory manufacturers depicted in the game. All trademarks belong to their respective owners.",
-        "pt": "O Launcher do XTRINK é uma ferramenta comunitária e independente desenvolvida por fãs com o objetivo de facilitar o gerenciamento e download de mods para o American Truck Simulator.\n\nAmerican Truck Simulator e seus respectivos logotipos, marcas e conteúdos são propriedade exclusiva da SCS Software. Este software não é afiliado, apoiado ou patrocinado pela SCS Software nem pelos fabricantes reais de veículos ou acessórios representados no jogo. Todas as marcas registradas pertencem aos seus respectivos proprietários.",
-        "de": "Der XTRINK Launcher ist ein gemeinschaftliches, unabhängiges Fan-Tool, das entwickelt wurde, um die Verwaltung und den Download von Modifikationen für American Truck Simulator zu erleichtern.\n\nAmerican Truck Simulator und die entsprechenden Logos, Marken und Inhalte sind das ausschließliche Eigentum von SCS Software. Diese Software ist weder mit SCS Software noch mit den im Spiel dargestellten realen Fahrzeug- oder Zubehörherstellern verbunden, wird nicht von diesen unterstützt oder gesponsert. Alle Marken gehören ihren jeweiligen Eigentümern.",
-        "fr": "Le Lanceur XTRINK est un outil communautaire et indépendant créé par des fans afin de faciliter la gestion et le téléchargement de mods pour American Truck Simulator.\n\nAmerican Truck Simulator et ses logos, marques et contenus respectifs sont la propriété exclusive de SCS Software. Ce logiciel n'est pas affilié, approuvé ou sponsorisé par SCS Software ni par les constructeurs réels de véhicules ou d'accessoires représentés dans le jeu. Toutes les marques appartiennent à leurs propriétaires respectifs.",
-        "ru": "Лаунчер XTRINK — это независимый инструмент сообщества, созданный энтузиастами (fan-made) для удобного управления и загрузки модификаций для American Truck Simulator.\n\nAmerican Truck Simulator и соответствующие логотипы, бренды и материалы являются исключительной собственностью SCS Software. Это программное обеспечение не связано, не одобрено и не спонсируется SCS Software или реальными производителями транспортных средств и аксессуаров, представленных в игре. Все зарегистрированные товарные знаки принадлежат их законным владельцам.",
-        "zh": "XTRINK 启动器是一款由玩家社区独立开发的爱好者工具，旨在方便管理和下载 American Truck Simulator 的各类模组。\n\nAmerican Truck Simulator 及其各自的徽标、商标和内容均为 SCS Software 的专有财产。本软件与 SCS Software 以及游戏中描绘的真实车辆或配件制造商没有任何关联、认可或赞助。所有注册商标均归其各自所有者所有。",
+    "El Launcher de CHASIS es una herramienta comunitaria e independiente desarrollada por aficionados (fan-made) con el fin de facilitar la gestión y descarga de modificaciones para American Truck Simulator.\n\nAmerican Truck Simulator y sus respectivos logotipos, marcas y contenidos son propiedad exclusiva de SCS Software. Este software no está afiliado, respaldado ni patrocinado por SCS Software ni por los fabricantes reales de vehículos o accesorios representados en el juego. Todas las marcas registradas pertenecen a sus respectivos dueños.": {
+        "en": "The CHASIS Launcher is a community, independent fan-made tool created to facilitate managing and downloading mods for American Truck Simulator.\n\nAmerican Truck Simulator and its respective logos, brands, and content are the exclusive property of SCS Software. This software is not affiliated with, endorsed by, or sponsored by SCS Software or the real-world vehicle or accessory manufacturers depicted in the game. All trademarks belong to their respective owners.",
+        "pt": "O Launcher do CHASIS é uma ferramenta comunitária e independente desenvolvida por fãs com o objetivo de facilitar o gerenciamento e download de mods para o American Truck Simulator.\n\nAmerican Truck Simulator e seus respectivos logotipos, marcas e conteúdos são propriedade exclusiva da SCS Software. Este software não é afiliado, apoiado ou patrocinado pela SCS Software nem pelos fabricantes reais de veículos ou acessórios representados no jogo. Todas as marcas registradas pertencem aos seus respectivos proprietários.",
+        "de": "Der CHASIS Launcher ist ein gemeinschaftliches, unabhängiges Fan-Tool, das entwickelt wurde, um die Verwaltung und den Download von Modifikationen für American Truck Simulator zu erleichtern.\n\nAmerican Truck Simulator und die entsprechenden Logos, Marken und Inhalte sind das ausschließliche Eigentum von SCS Software. Diese Software ist weder mit SCS Software noch mit den im Spiel dargestellten realen Fahrzeug- oder Zubehörherstellern verbunden, wird nicht von diesen unterstützt oder gesponsert. Alle Marken gehören ihren jeweiligen Eigentümern.",
+        "fr": "Le Lanceur CHASIS est un outil communautaire et indépendant créé par des fans afin de faciliter la gestion et le téléchargement de mods pour American Truck Simulator.\n\nAmerican Truck Simulator et ses logos, marques et contenus respectifs sont la propriété exclusive de SCS Software. Ce logiciel n'est pas affilié, approuvé ou sponsorisé par SCS Software ni par les constructeurs réels de véhicules ou d'accessoires représentés dans le jeu. Toutes les marques appartiennent à leurs propriétaires respectifs.",
+        "ru": "Лаунчер CHASIS — это независимый инструмент сообщества, созданный энтузиастами (fan-made) для удобного управления и загрузки модификаций для American Truck Simulator.\n\nAmerican Truck Simulator и соответствующие логотипы, бренды и материалы являются исключительной собственностью SCS Software. Это программное обеспечение не связано, не одобрено и не спонсируется SCS Software или реальными производителями транспортных средств и аксессуаров, представленных в игре. Все зарегистрированные товарные знаки принадлежат их законным владельцам.",
+        "zh": "CHASIS 启动器是一款由玩家社区独立开发的爱好者工具，旨在方便管理和下载 American Truck Simulator 的各类模组。\n\nAmerican Truck Simulator 及其各自的徽标、商标和内容均为 SCS Software 的专有财产。本软件与 SCS Software 以及游戏中描绘的真实车辆或配件制造商没有任何关联、认可或赞助。所有注册商标均归其各自所有者所有。",
     },
     '2. Exención de Responsabilidad ("TAL CUAL" / AS IS)': {
         "en": '2. Disclaimer of Warranties ("AS IS")',
@@ -471,13 +471,13 @@ TRADUCCIONES_ALERTAS = {
         "ru": "5. Конфиденциальность и безопасность",
         "zh": "5. 隐私与安全",
     },
-    "El Launcher de XTRINK no recopila, no comercializa ni almacena información personal sensible. Las conexiones de red realizadas tienen por único fin la comprobación de versiones, descarga de datos del servidor y descarga segura de contenidos públicos.": {
-        "en": "The XTRINK Launcher does not collect, sell, or store sensitive personal data. Network connections are established solely for version verification, server metadata retrieval, and secure download of public content.",
-        "pt": "O Launcher do XTRINK não coleta, não comercializa nem armazena informações pessoais confidenciais. As conexões de rede realizadas têm como único propósito a verificação de versões, obtenção de dados do servidor e download seguro de conteúdos públicos.",
-        "de": "Der XTRINK Launcher sammelt, verkauft oder speichert keine sensiblen persönlichen Daten. Netzwerkverbindungen dienen ausschließlich der Versionsprüfung, dem Abruf von Servermetadaten und dem sicheren Herunterladen öffentlicher Inhalte.",
-        "fr": "Le Lanceur XTRINK ne collecte, ne vend ni ne stocke aucune donnée personnelle sensible. Les connexions réseau ont pour seul but la vérification des versions, la récupération des données du serveur et le téléchargement sécurisé des contenus publics.",
-        "ru": "Лаунчер XTRINK не собирает, не продает и не сохраняет конфиденциальные личные данные. Сетевые подключения выполняются исключительно для проверки версий, получения данных с сервера и безопасной загрузки общедоступного контента.",
-        "zh": "XTRINK 启动器不会收集、出售或存储敏感的个人信息。网络连接仅用于版本检查、服务器数据检索以及安全下载公开内容。",
+    "El Launcher de CHASIS no recopila, no comercializa ni almacena información personal sensible. Las conexiones de red realizadas tienen por único fin la comprobación de versiones, descarga de datos del servidor y descarga segura de contenidos públicos.": {
+        "en": "The CHASIS Launcher does not collect, sell, or store sensitive personal data. Network connections are established solely for version verification, server metadata retrieval, and secure download of public content.",
+        "pt": "O Launcher do CHASIS não coleta, não comercializa nem armazena informações pessoais confidenciais. As conexões de rede realizadas têm como único propósito a verificação de versões, obtenção de dados do servidor e download seguro de conteúdos públicos.",
+        "de": "Der CHASIS Launcher sammelt, verkauft oder speichert keine sensiblen persönlichen Daten. Netzwerkverbindungen dienen ausschließlich der Versionsprüfung, dem Abruf von Servermetadaten und dem sicheren Herunterladen öffentlicher Inhalte.",
+        "fr": "Le Lanceur CHASIS ne collecte, ne vend ni ne stocke aucune donnée personnelle sensible. Les connexions réseau ont pour seul but la vérification des versions, la récupération des données du serveur et le téléchargement sécurisé des contenus publics.",
+        "ru": "Лаунчер CHASIS не собирает, не продает и не сохраняет конфиденциальные личные данные. Сетевые подключения выполняются исключительно для проверки версий, получения данных с сервера и безопасной загрузки общедоступного контента.",
+        "zh": "CHASIS 启动器不会收集、出售或存储敏感的个人信息。网络连接仅用于版本检查、服务器数据检索以及安全下载公开内容。",
     },
     "¡ENTENDIDO Y ACEPTADO!": {
         "en": "UNDERSTOOD & ACCEPTED!",
@@ -631,13 +631,13 @@ TRADUCCIONES_ALERTAS = {
         "ru": "Добавлена возможность быстрого перехода в папку плагинов.",
         "zh": "添加了快速访问 plugins 插件目录的选项。",
     },
-    "LAUNCHER DE XTRINK {version}": {
-        "en": "XTRINK LAUNCHER {version}",
-        "pt": "LAUNCHER DO XTRINK {version}",
-        "de": "XTRINK LAUNCHER {version}",
-        "fr": "LANCEUR XTRINK {version}",
-        "ru": "ЛАУНЧЕР XTRINK {version}",
-        "zh": "XTRINK 启动器 {version}",
+    "LAUNCHER DE CHASIS {version}": {
+        "en": "CHASIS LAUNCHER {version}",
+        "pt": "LAUNCHER DO CHASIS {version}",
+        "de": "CHASIS LAUNCHER {version}",
+        "fr": "LANCEUR CHASIS {version}",
+        "ru": "ЛАУНЧЕР CHASIS {version}",
+        "zh": "CHASIS 启动器 {version}",
     },
     "🖥️ CarPlay": {
         "en": "🖥️ CarPlay",

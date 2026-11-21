@@ -4,10 +4,10 @@ from PySide6.QtGui import QPixmap, QPainter, QColor, QPen, QIcon, QRadialGradien
 from PySide6.QtCore import Qt, QPointF
 from download_manager import cargar_config_usuario, guardar_config_usuario
 
-TEMA_POR_DEFECTO = "Dorado Xtrink"
+TEMA_POR_DEFECTO = "Dorado Chasis"
 
 TEMAS = {
-    "Dorado Xtrink": {
+    "Dorado Chasis": {
         "acento": "#E5A93C",
         "hover": "#F1C40F",
         "borde_oscuro": "#C58922",

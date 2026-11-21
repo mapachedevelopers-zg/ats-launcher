@@ -50,11 +50,11 @@ def aplicar_actualizacion_y_reiniciar(url_descarga, callback_progreso=None):
             ruta_exe_actual = os.path.abspath(sys.executable)
         else:
             directorio = os.path.dirname(os.path.abspath(__file__))
-            ruta_exe_actual = os.path.join(directorio, 'Launcher_Xtrink.exe')
+            ruta_exe_actual = os.path.join(directorio, 'Launcher_Chasis.exe')
 
         directorio_actual = os.path.dirname(ruta_exe_actual)
         carpeta_temp = tempfile.gettempdir()
-        ruta_descarga_temp = os.path.join(carpeta_temp, 'Launcher_Xtrink_Update.exe')
+        ruta_descarga_temp = os.path.join(carpeta_temp, 'Launcher_Chasis_Update.exe')
 
         # Descargar el nuevo ejecutable / instalador
         respuesta = requests.get(
@@ -86,7 +86,7 @@ def aplicar_actualizacion_y_reiniciar(url_descarga, callback_progreso=None):
         es_instalador = _es_instalador_inno_setup(ruta_descarga_temp)
         tiene_unins = os.path.exists(os.path.join(directorio_actual, 'unins000.exe'))
 
-        vbs_script = os.path.join(carpeta_temp, 'actualizar_xtrink.vbs')
+        vbs_script = os.path.join(carpeta_temp, 'actualizar_chasis.vbs')
         ruta_exe_vbs = ruta_exe_actual.replace('"', '""')
         ruta_temp_vbs = ruta_descarga_temp.replace('"', '""')
         dir_actual_vbs =directorio_actual.replace('"', '""')
@@ -113,7 +113,7 @@ Set oShell = CreateObject("WScript.Shell")
 
 ' Asegurar que el launcher se cierre de inmediato y no quede bloqueando archivos
 On Error Resume Next
-oShell.Run "taskkill.exe /F /IM Launcher_Xtrink.exe /T", 0, True
+oShell.Run "taskkill.exe /F /IM Launcher_Chasis.exe /T", 0, True
 On Error GoTo 0
 WScript.Sleep 1000
 
@@ -142,7 +142,7 @@ Set oShell = CreateObject("WScript.Shell")
 
 ' Asegurar el cierre del launcher
 On Error Resume Next
-oShell.Run "taskkill.exe /F /IM Launcher_Xtrink.exe /T", 0, True
+oShell.Run "taskkill.exe /F /IM Launcher_Chasis.exe /T", 0, True
 On Error GoTo 0
 WScript.Sleep 1000
 

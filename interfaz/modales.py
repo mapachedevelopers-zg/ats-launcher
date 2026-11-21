@@ -241,7 +241,7 @@ class ModalTerminos(_BaseModalAnimado):
             (
                 "1. Naturaleza del Proyecto y Propiedad Intelectual",
                 "🛡️",
-                "El Launcher de XTRINK es una herramienta comunitaria e independiente desarrollada por aficionados (fan-made) con el fin de facilitar la gestión y descarga de modificaciones para American Truck Simulator.\n\n"
+                "El Launcher de CHASIS es una herramienta comunitaria e independiente desarrollada por aficionados (fan-made) con el fin de facilitar la gestión y descarga de modificaciones para American Truck Simulator.\n\n"
                 "American Truck Simulator y sus respectivos logotipos, marcas y contenidos son propiedad exclusiva de SCS Software. Este software no está afiliado, respaldado ni patrocinado por SCS Software ni por los fabricantes reales de vehículos o accesorios representados en el juego. Todas las marcas registradas pertenecen a sus respectivos dueños.",
             ),
             (
@@ -265,7 +265,7 @@ class ModalTerminos(_BaseModalAnimado):
             (
                 "5. Privacidad y Seguridad",
                 "🔒",
-                "El Launcher de XTRINK no recopila, no comercializa ni almacena información personal sensible. Las conexiones de red realizadas tienen por único fin la comprobación de versiones, descarga de datos del servidor y descarga segura de contenidos públicos.",
+                "El Launcher de CHASIS no recopila, no comercializa ni almacena información personal sensible. Las conexiones de red realizadas tienen por único fin la comprobación de versiones, descarga de datos del servidor y descarga segura de contenidos públicos.",
             ),
         )
 
