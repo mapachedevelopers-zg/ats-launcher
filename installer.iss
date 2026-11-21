@@ -2,7 +2,7 @@
 ; Compatible con Inno Setup 6.x
 
 #define MyAppName "Launcher de Chasis"
-#define MyAppVersion "2.2"
+#define MyAppVersion "2.2.1"
 #define MyAppPublisher "Mapache Developers"
 #define MyAppURL "https://github.com/mapachedevelopers-zg/ats-launcher"
 #define MyAppExeName "Launcher_Chasis.exe"
@@ -22,7 +22,7 @@ DisableProgramGroupPage=yes
 PrivilegesRequired=lowest
 PrivilegesRequiredOverridesAllowed=dialog commandline
 OutputDir=dist\installer
-OutputBaseFilename=Launcher_Chasis_Setup_2.2
+OutputBaseFilename=Launcher_Chasis_Setup_2.2.1
 SetupIconFile=logo.ico
 UninstallDisplayIcon={app}\{#MyAppExeName}
 Compression=lzma2/ultra64

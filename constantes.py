@@ -7,8 +7,8 @@ import sys
 # CONSTANTES GLOBALES DEL LAUNCHER
 # ==========================================
 
-VERSION_ACTUAL = '2.2'
-NOMBRE_LAUNCHER = f'LAUNCHER DE CHASIS {VERSION_ACTUAL}'
+VERSION_ACTUAL = '2.2.1'
+NOMBRE_LAUNCHER = f'LAUNCHER DE CHASIS 2.2'
 
 # ==========================================
 # URLS REMOTAS (ofuscadas: base64 + XOR)

@@ -58,7 +58,7 @@ def paso3_inno_setup(iscc_path: str):
     subprocess.run([iscc_path, iss_path], cwd=BASE_DIR, check=True)
     
     # Crear copia con nombre Launcher_Chasis.exe para Releases de GitHub
-    setup_orig = os.path.join(INSTALLER_DIR, "Launcher_Chasis_Setup_2.2.exe")
+    setup_orig = os.path.join(INSTALLER_DIR, "Launcher_Chasis_Setup_2.2.1.exe")
     setup_release = os.path.join(INSTALLER_DIR, "Launcher_Chasis.exe")
     if os.path.exists(setup_orig):
         shutil.copy2(setup_orig, setup_release)
@@ -68,7 +68,7 @@ def paso3_inno_setup(iscc_path: str):
 
 def paso4_generar_zip():
     print("\n[4/4] Generando archivo comprimido .zip...")
-    zip_path = os.path.join(DIST_DIR, "Launcher_Chasis_2.2.zip")
+    zip_path = os.path.join(DIST_DIR, "Launcher_Chasis_2.2.1.zip")
     if os.path.exists(zip_path):
         os.remove(zip_path)
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
