@@ -2,7 +2,7 @@
   "launcher_version": "2.3.2",
   "deliciosos_titulo": "DELICIOSOS 1.60.1.8s",
   "launcher_download_url": "https://github.com/mapachedevelopers-zg/ats-launcher/releases/latest/download/Launcher_Chasis.exe",
-  "novedades": "• ATS VIP v2.3.2 — by CheoYT.\n• Solución definitiva al cierre al 99%: proceso de actualización silencioso y robusto.\n• Acceso directo ATS VIP en el Escritorio creado automáticamente.\n• Apartado exclusivo de MAPAS con Colombia Real Map v2.0 (La Guajira ➔ Bogotá ➔ Medellín ➔ Sur en Escala 1:3).\n• Descarga y validación automática directa a la carpeta mod de ATS.",
+  "novedades": "• ATS VIP v2.3.2 — by CheoYT.\n• Solución definitiva al cierre al 99%: proceso de actualización silencioso y robusto.\n• Acceso directo ATS VIP en el Escritorio creado automáticamente.\n• Apartado exclusivo de MAPAS con Colombia Real Map v2.0 (155 ciudades reales, La Guajira ➔ Bogotá ➔ Caribe ➔ Sur en Escala 1:3).\n• Descarga y validación automática directa a la carpeta mod de ATS.",
   "deliciosos_url": "https://modsfire.com/V3easpUb89585gc",
   "tutorial_url": "https://youtu.be/obMPejKPaRE?si=7pr4uaxfksfGCBjS",
   "carplay_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/CARPLAY.zip",
@@ -13,10 +13,10 @@
   "mapas": [
     {
       "id": "mapa_colombia",
-      "nombre": "Colombia Real Map (Escala 1:3)",
+      "nombre": "Colombia Real Map (155 Ciudades - Escala 1:3)",
       "version": "2.0",
       "archivo_scs": "colombia.scs",
-      "md5": "b63407b79447b03a320f403663a0dbc6",
+      "md5": "292264bcd436517b7b41f52eb9a42d33",
       "url_descarga": "https://github.com/mapachedevelopers-zg/ats-launcher/releases/download/v2.3.2/colombia.scs",
       "imagen_url": "https://github.com/mapachedevelopers-zg/ats-launcher/releases/download/v2.3.2/colombia_banner.png"
     }
