@@ -1,0 +1,98 @@
+{
+  "launcher_version": "2.3.2",
+  "deliciosos_titulo": "DELICIOSOS 1.60.1.8s",
+  "launcher_download_url": "https://github.com/mapachedevelopers-zg/ats-launcher/releases/latest/download/Launcher_Chasis.exe",
+  "novedades": "• ATS VIP v2.3.2 — by CheoYT.\n• Solución definitiva al cierre al 99%: proceso de actualización silencioso y robusto.\n• Acceso directo ATS VIP en el Escritorio creado automáticamente.\n• Apartado exclusivo de MAPAS con Colombia Real 1:20 (colombia.scs).\n• Descarga y validación automática directa a la carpeta mod de ATS.",
+  "deliciosos_url": "https://modsfire.com/V3easpUb89585gc",
+  "tutorial_url": "https://youtu.be/obMPejKPaRE?si=7pr4uaxfksfGCBjS",
+  "carplay_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/CARPLAY.zip",
+  "reshade_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/RESHADE.zip",
+  "blinker_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/DIRECCIONALES.zip",
+  "cabin_walk_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/Cabin_Walk.zip",
+  "emisoras_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/live_streams.sii",
+  "mapas": [
+    {
+      "id": "mapa_colombia",
+      "nombre": "Colombia Real 1:20",
+      "version": "1.0",
+      "archivo_scs": "colombia.scs",
+      "md5": "427b4dc20e518785112ef4ef2f8c1062",
+      "url_descarga": "https://github.com/mapachedevelopers-zg/colombia-map/releases/download/v1.0.0/colombia.scs",
+      "imagen_url": "https://raw.githubusercontent.com/mapachedevelopers-zg/colombia-map/main/recursos/colombia_banner.png"
+    }
+  ],
+  "mods": [
+     {
+      "id": "pack_camiones_1",
+      "nombre": "Pack Camiones 1",
+      "version": "1.0",
+      "archivo_scs": "PACK_DE_CAMIONES_1.scs",
+      "md5": "837ef61d3e2a99a388f69b0c11358a11",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_CAMIONES_1.scs",
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/camiones1.png"
+    },
+    {
+      "id": "pack_camiones_2",
+      "nombre": "Pack Camiones 2",
+      "version": "1.0",
+      "archivo_scs": "PACK_DE_CAMIONES_2.scs",
+      "md5": "d4924d45117caf2f77a309613932d5d1",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_CAMIONES_2.scs",
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/camiones2.png"
+    },
+    {
+      "id": "pack_buses",
+      "nombre": "Pack de Buses",
+      "version": "1.0",
+      "archivo_scs": "PACK_DE_BUSES.scs",
+      "md5": "8814b635d65078561f948bbabb17582c",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_BUSES.scs",
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/buses.png"
+    },
+    {
+      "id": "pack_remolques",
+      "nombre": "Pack de Remolques",
+      "version": "1.0",
+      "archivo_scs": "PACK_DE_REMOLQUES.scs",
+      "md5": "9a894d2a21a1b7e5c0893bc6ae5f1696",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_REMOLQUES.scs",
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/remolques.png"
+    },
+    {
+      "id": "pack_rines",
+      "nombre": "Pack de Rines",
+      "version": "1.0",
+      "archivo_scs": "PACK_DE_RINES.scs",
+      "md5": "3e217116b49b320e399ff144e4f0b2a5",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_RINES.scs",
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/rines.png"
+    },
+    {
+      "id": "mini_pack",
+      "nombre": "Mini Pack de Mods",
+      "version": "1.0",
+      "archivo_scs": "MINI_PACK_DE_MODS.scs",
+      "md5": "7f74947010b9b9394ce3cda2a6f6ed2b",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/MINI_PACK_DE_MODS.scs",
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/minipack.png"
+    },
+    {
+      "id": "trafico_colombiano",
+      "nombre": "Tráfico Colombiano",
+      "version": "1.0",
+      "archivo_scs": "TRAFICO_COLOMBIANO.scs",
+      "md5": "2f2188a348ffde516ba66ebb8f400928",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/TRAFICO_COLOMBIANO.scs",
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/trafico.png"
+    },
+     {
+      "id": "pack_skins",
+      "nombre": "Pack de Skins",
+      "version": "1.0",
+      "archivo_scs": "PACK_DE_SKINS_Y_MODIFICACIONES.scs",
+      "md5": "985480461a88b7b66b72cd486e3631e5",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_SKINS_Y_MODIFICACIONES.scs",
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
+    }
+  ]
+}

@@ -1,0 +1,6148 @@
+used_truck_offer : _nameless.234.0e0a.0338 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.d418
+ price: 167305
+ expiration_game_time: 7076
+}
+
+used_truck_offer : _nameless.234.0e0a.08d8 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.89d8
+ price: 30660
+ expiration_game_time: 6931
+}
+
+used_truck_offer : _nameless.234.0e0a.20e8 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.dd18
+ price: 116666
+ expiration_game_time: 7468
+}
+
+used_truck_offer : _nameless.234.0e0a.18c8 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.e858
+ price: 136069
+ expiration_game_time: 7528
+}
+
+used_truck_offer : _nameless.234.0e0a.2048 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.ef18
+ price: 140534
+ expiration_game_time: 7395
+}
+
+used_truck_offer : _nameless.234.0e0a.0e28 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.b018
+ price: 124024
+ expiration_game_time: 6889
+}
+
+used_truck_offer : _nameless.234.0e0a.1238 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.e3d8
+ price: 153406
+ expiration_game_time: 7471
+}
+
+used_truck_offer : _nameless.234.0e0a.2368 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.df58
+ price: 207234
+ expiration_game_time: 7458
+}
+
+used_truck_offer : _nameless.234.0e0a.2728 {
+ lefthand_traffic: false
+ truck: _nameless.234.0372.0358
+ price: 88155
+ expiration_game_time: 6787
+}
+
+used_truck_offer : _nameless.234.0e0a.2778 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.9758
+ price: 192103
+ expiration_game_time: 8050
+}
+
+used_truck_offer : _nameless.234.0e0a.25e8 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.fc98
+ price: 163712
+ expiration_game_time: 7203
+}
+
+used_truck_offer : _nameless.234.0e0a.2958 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.f158
+ price: 81302
+ expiration_game_time: 7365
+}
+
+used_truck_offer : _nameless.234.0e0a.3998 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.f398
+ price: 152745
+ expiration_game_time: 7825
+}
+
+used_truck_offer : _nameless.234.0e0a.3fd8 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.fed8
+ price: 137445
+ expiration_game_time: 6874
+}
+
+used_truck_offer : _nameless.234.0e0a.42a8 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.f5d8
+ price: 118700
+ expiration_game_time: 7036
+}
+
+used_truck_offer : _nameless.234.0e0a.47f8 {
+ lefthand_traffic: false
+ truck: _nameless.234.0371.f818
+ price: 103394
+ expiration_game_time: 7691
+}
+
+vehicle : _nameless.234.0371.d418 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3b82a50a
+ transmission_wear_unfixable: &3d5ed6fd
+ cabin_wear_unfixable: &3d9a94c6
+ fuel_relative: &3f533d5e
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 43
+ accessories[0]: _nameless.234.0b8f.3128
+ accessories[1]: _nameless.234.0b8f.41a8
+ accessories[2]: _nameless.234.0b8f.4208
+ accessories[3]: _nameless.234.0b8f.47a8
+ accessories[4]: _nameless.234.0b8f.37e8
+ accessories[5]: _nameless.234.0b8f.42c8
+ accessories[6]: _nameless.234.0b8f.34e8
+ accessories[7]: _nameless.234.0332.ed28
+ accessories[8]: _nameless.234.0e60.7bc8
+ accessories[9]: _nameless.234.0e60.7d18
+ accessories[10]: _nameless.234.0e60.7d88
+ accessories[11]: _nameless.234.0e60.7df8
+ accessories[12]: _nameless.234.0e60.7ed8
+ accessories[13]: _nameless.234.0e60.7f48
+ accessories[14]: _nameless.234.0e60.8028
+ accessories[15]: _nameless.234.0e60.8098
+ accessories[16]: _nameless.234.0e60.96e8
+ accessories[17]: _nameless.234.0e60.9b48
+ accessories[18]: _nameless.234.0e60.8808
+ accessories[19]: _nameless.234.0e60.9838
+ accessories[20]: _nameless.234.0e60.8f78
+ accessories[21]: _nameless.234.0e60.8f08
+ accessories[22]: _nameless.234.0e60.9ad8
+ accessories[23]: _nameless.234.0e02.e078
+ accessories[24]: _nameless.234.0e02.e978
+ accessories[25]: _nameless.234.0e02.f038
+ accessories[26]: _nameless.234.0e02.f1b8
+ accessories[27]: _nameless.234.0e02.f938
+ accessories[28]: _nameless.234.0e02.ff38
+ accessories[29]: _nameless.234.0e02.f638
+ accessories[30]: _nameless.234.0e02.fb78
+ accessories[31]: _nameless.234.0e02.e438
+ accessories[32]: _nameless.234.0e02.d478
+ accessories[33]: _nameless.234.0e02.ed38
+ accessories[34]: _nameless.234.0e02.f7b8
+ accessories[35]: _nameless.234.0e02.d838
+ accessories[36]: _nameless.234.0e02.d9b8
+ accessories[37]: _nameless.234.0e02.fab8
+ accessories[38]: _nameless.234.0e02.e1f8
+ accessories[39]: _nameless.234.0e02.e4f8
+ accessories[40]: _nameless.234.0e02.f338
+ accessories[41]: _nameless.234.0e02.e2b8
+ accessories[42]: _nameless.234.0e02.e378
+ odometer: 87032
+ odometer_float_part: 0
+ integrity_odometer: 87032
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS150|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3da8f869
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3db3fe52
+ wheels_wear_unfixable[1]: &3db3fe52
+ wheels_wear_unfixable[2]: &3db3fe52
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.89d8 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d721f80
+ transmission_wear_unfixable: &3e0facfd
+ cabin_wear_unfixable: &3da181f7
+ fuel_relative: &3ecd13bc
+ rheostat_factor: &3f400000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 33
+ accessories[0]: _nameless.234.0b8f.3de8
+ accessories[1]: _nameless.234.0b8f.3ea8
+ accessories[2]: _nameless.234.0b8f.5ac8
+ accessories[3]: _nameless.234.0b8f.5b88
+ accessories[4]: _nameless.234.0b8f.5b28
+ accessories[5]: _nameless.234.0b8f.59a8
+ accessories[6]: _nameless.234.0b8f.5768
+ accessories[7]: _nameless.234.0e02.eaf8
+ accessories[8]: _nameless.234.0e60.9368
+ accessories[9]: _nameless.234.0e60.9de8
+ accessories[10]: _nameless.234.0e60.85d8
+ accessories[11]: _nameless.234.0e60.9bb8
+ accessories[12]: _nameless.234.0e60.91a8
+ accessories[13]: _nameless.234.0e60.97c8
+ accessories[14]: _nameless.234.0e60.8728
+ accessories[15]: _nameless.234.0e60.9d78
+ accessories[16]: _nameless.234.0e60.8798
+ accessories[17]: _nameless.234.0e60.9f38
+ accessories[18]: _nameless.234.0e60.93d8
+ accessories[19]: _nameless.234.0e60.8cd8
+ accessories[20]: _nameless.234.0332.d1a8
+ accessories[21]: _nameless.234.0e02.e5b8
+ accessories[22]: _nameless.234.0e02.e7f8
+ accessories[23]: _nameless.234.0e02.f0f8
+ accessories[24]: _nameless.234.0e02.d5f8
+ accessories[25]: _nameless.234.0e02.d6b8
+ accessories[26]: _nameless.234.0e02.fff8
+ accessories[27]: _nameless.234.0e02.da78
+ accessories[28]: _nameless.234.0e02.e678
+ accessories[29]: _nameless.234.0e02.f3f8
+ accessories[30]: _nameless.234.0e02.e738
+ accessories[31]: _nameless.234.0e02.fcf8
+ accessories[32]: _nameless.234.0e02.f9f8
+ odometer: 868481
+ odometer_float_part: 0
+ integrity_odometer: 868481
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS151|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3b414a8f
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3e101f13
+ wheels_wear_unfixable[1]: &3e101f13
+ wheels_wear_unfixable[2]: &3e101f13
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.dd18 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d10c250
+ transmission_wear_unfixable: &3d23b9d2
+ cabin_wear_unfixable: &3d4d2b57
+ fuel_relative: &3f3703ec
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 37
+ accessories[0]: _nameless.234.0b8f.57c8
+ accessories[1]: _nameless.234.0b8f.5d68
+ accessories[2]: _nameless.234.0b8f.4c88
+ accessories[3]: _nameless.234.0b8f.4da8
+ accessories[4]: _nameless.234.0b8f.5e28
+ accessories[5]: _nameless.234.0b8f.5168
+ accessories[6]: _nameless.234.0b8f.5348
+ accessories[7]: _nameless.234.0332.e4e8
+ accessories[8]: _nameless.234.0e60.8fe8
+ accessories[9]: _nameless.234.0e60.a018
+ accessories[10]: _nameless.234.0e60.a088
+ accessories[11]: _nameless.234.0e60.8648
+ accessories[12]: _nameless.234.0e60.9d08
+ accessories[13]: _nameless.234.0e60.8958
+ accessories[14]: _nameless.234.0e60.8d48
+ accessories[15]: _nameless.234.0e60.8db8
+ accessories[16]: _nameless.234.0e60.9448
+ accessories[17]: _nameless.234.0e60.98a8
+ accessories[18]: _nameless.234.0e60.8e28
+ accessories[19]: _nameless.234.0e60.8e98
+ accessories[20]: _nameless.234.0e02.f4b8
+ accessories[21]: _nameless.234.0e02.ebb8
+ accessories[22]: _nameless.234.0e02.d3b8
+ accessories[23]: _nameless.234.0e02.f878
+ accessories[24]: _nameless.234.0e02.ec78
+ accessories[25]: _nameless.234.0e02.d0b8
+ accessories[26]: _nameless.234.0e03.0838
+ accessories[27]: _nameless.234.0e03.06b8
+ accessories[28]: _nameless.234.0e03.17f8
+ accessories[29]: _nameless.234.0e03.1d38
+ accessories[30]: _nameless.234.0e03.1eb8
+ accessories[31]: _nameless.234.0e03.21b8
+ accessories[32]: _nameless.234.0e03.1af8
+ accessories[33]: _nameless.234.0e03.0ef8
+ accessories[34]: _nameless.234.0e03.1c78
+ accessories[35]: _nameless.234.0e03.05f8
+ accessories[36]: _nameless.234.0e03.0b38
+ odometer: 49842
+ odometer_float_part: 0
+ integrity_odometer: 49842
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS152|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3d55c39e
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3d9287e8
+ wheels_wear_unfixable[1]: &3d9287e8
+ wheels_wear_unfixable[2]: &3d9287e8
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.e858 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d943e83
+ transmission_wear_unfixable: &3d8c1fa5
+ cabin_wear_unfixable: &3dbcbe48
+ fuel_relative: &3f55f0f0
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 48
+ accessories[0]: _nameless.234.0b8f.5648
+ accessories[1]: _nameless.234.0b8f.5f48
+ accessories[2]: _nameless.234.0b8f.53a8
+ accessories[3]: _nameless.234.0b8f.58e8
+ accessories[4]: _nameless.234.0b8f.5108
+ accessories[5]: _nameless.234.0b8f.5fa8
+ accessories[6]: _nameless.234.0b8f.5828
+ accessories[7]: _nameless.234.0e60.9608
+ accessories[8]: _nameless.234.0e60.ad38
+ accessories[9]: _nameless.234.0e60.b208
+ accessories[10]: _nameless.234.0e60.a558
+ accessories[11]: _nameless.234.0e60.a478
+ accessories[12]: _nameless.234.0e60.ae88
+ accessories[13]: _nameless.234.0e60.a4e8
+ accessories[14]: _nameless.234.0e60.bc18
+ accessories[15]: _nameless.234.0e60.b2e8
+ accessories[16]: _nameless.234.0e60.b748
+ accessories[17]: _nameless.234.0e60.b198
+ accessories[18]: _nameless.234.0e60.a638
+ accessories[19]: _nameless.234.0e60.b3c8
+ accessories[20]: _nameless.234.0e60.b7b8
+ accessories[21]: _nameless.234.0e60.b908
+ accessories[22]: _nameless.234.0332.d3b8
+ accessories[23]: _nameless.234.0e03.1df8
+ accessories[24]: _nameless.234.0e03.1f78
+ accessories[25]: _nameless.234.0e03.1678
+ accessories[26]: _nameless.234.0e03.11f8
+ accessories[27]: _nameless.234.0e03.18b8
+ accessories[28]: _nameless.234.0e03.2b78
+ accessories[29]: _nameless.234.0e03.0238
+ accessories[30]: _nameless.234.0e03.26f8
+ accessories[31]: _nameless.234.0e03.1738
+ accessories[32]: _nameless.234.0e03.1978
+ accessories[33]: _nameless.234.0e03.2e78
+ accessories[34]: _nameless.234.0e03.1a38
+ accessories[35]: _nameless.234.0e03.0fb8
+ accessories[36]: _nameless.234.0e03.15b8
+ accessories[37]: _nameless.234.0e03.1378
+ accessories[38]: _nameless.234.0e03.2f38
+ accessories[39]: _nameless.234.0e03.2938
+ accessories[40]: _nameless.234.0e03.2038
+ accessories[41]: _nameless.234.0e03.2578
+ accessories[42]: _nameless.234.0e03.2cf8
+ accessories[43]: _nameless.234.0e03.0478
+ accessories[44]: _nameless.234.0e03.2638
+ accessories[45]: _nameless.234.0e03.27b8
+ accessories[46]: _nameless.234.0e03.2278
+ accessories[47]: _nameless.234.0e03.2db8
+ odometer: 60710
+ odometer_float_part: 0
+ integrity_odometer: 60710
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS153|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3dc9c1ae
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3d48f590
+ wheels_wear_unfixable[1]: &3d48f590
+ wheels_wear_unfixable[2]: &3d48f590
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.ef18 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d2bdc10
+ transmission_wear_unfixable: &3d04f3d4
+ cabin_wear_unfixable: &3d25bb03
+ fuel_relative: &3e27d5ea
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 30
+ accessories[0]: _nameless.234.0b8f.54c8
+ accessories[1]: _nameless.234.0b8f.4988
+ accessories[2]: _nameless.234.0b8f.5948
+ accessories[3]: _nameless.234.0b8f.4a48
+ accessories[4]: _nameless.234.0b8f.6548
+ accessories[5]: _nameless.234.0b8f.7028
+ accessories[6]: _nameless.234.0b8f.72c8
+ accessories[7]: _nameless.234.0e60.ba58
+ accessories[8]: _nameless.234.0e60.aef8
+ accessories[9]: _nameless.234.0e60.af68
+ accessories[10]: _nameless.234.0e60.b438
+ accessories[11]: _nameless.234.0e60.a9b8
+ accessories[12]: _nameless.234.0e60.a5c8
+ accessories[13]: _nameless.234.0e60.a6a8
+ accessories[14]: _nameless.234.0e60.b9e8
+ accessories[15]: _nameless.234.0e60.ab08
+ accessories[16]: _nameless.234.0e60.b668
+ accessories[17]: _nameless.234.0e60.b6d8
+ accessories[18]: _nameless.234.0e60.b4a8
+ accessories[19]: _nameless.234.0332.efe8
+ accessories[20]: _nameless.234.0e03.2ff8
+ accessories[21]: _nameless.234.0e03.02f8
+ accessories[22]: _nameless.234.0e03.29f8
+ accessories[23]: _nameless.234.0e03.2878
+ accessories[24]: _nameless.234.0e03.0bf8
+ accessories[25]: _nameless.234.0e03.1078
+ accessories[26]: _nameless.234.0e03.1bb8
+ accessories[27]: _nameless.234.0e03.20f8
+ accessories[28]: _nameless.234.0e03.0778
+ accessories[29]: _nameless.234.0e03.08f8
+ odometer: 4059
+ odometer_float_part: 0
+ integrity_odometer: 4059
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS154|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3c3f9454
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3c69b3df
+ wheels_wear_unfixable[1]: &3c69b3df
+ wheels_wear_unfixable[2]: &3c69b3df
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.b018 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3db9c942
+ transmission_wear_unfixable: &3ae694c7
+ cabin_wear_unfixable: &3db88215
+ fuel_relative: &3e2061e3
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 42
+ accessories[0]: _nameless.234.0b8f.7628
+ accessories[1]: _nameless.234.0b8f.6968
+ accessories[2]: _nameless.234.0b8f.6b48
+ accessories[3]: _nameless.234.0b8f.71a8
+ accessories[4]: _nameless.234.0b8f.6a28
+ accessories[5]: _nameless.234.0b8f.69c8
+ accessories[6]: _nameless.234.0b8f.73e8
+ accessories[7]: _nameless.234.0332.d518
+ accessories[8]: _nameless.234.0e60.afd8
+ accessories[9]: _nameless.234.0e60.b898
+ accessories[10]: _nameless.234.0e60.a788
+ accessories[11]: _nameless.234.0e60.aa28
+ accessories[12]: _nameless.234.0e60.b048
+ accessories[13]: _nameless.234.0e60.b518
+ accessories[14]: _nameless.234.0e60.ac58
+ accessories[15]: _nameless.234.0e60.bac8
+ accessories[16]: _nameless.234.0e60.b588
+ accessories[17]: _nameless.234.0e60.bba8
+ accessories[18]: _nameless.234.0e60.b0b8
+ accessories[19]: _nameless.234.0e60.b5f8
+ accessories[20]: _nameless.234.0e03.09b8
+ accessories[21]: _nameless.234.0e03.0a78
+ accessories[22]: _nameless.234.0e03.2338
+ accessories[23]: _nameless.234.0e03.23f8
+ accessories[24]: _nameless.234.0e03.24b8
+ accessories[25]: _nameless.234.0e03.2ab8
+ accessories[26]: _nameless.234.0e03.2c38
+ accessories[27]: _nameless.234.0e03.0cb8
+ accessories[28]: _nameless.234.0e03.03b8
+ accessories[29]: _nameless.234.0e03.00b8
+ accessories[30]: _nameless.234.0e03.0178
+ accessories[31]: _nameless.234.0e03.0538
+ accessories[32]: _nameless.234.0e03.0d78
+ accessories[33]: _nameless.234.0e03.0e38
+ accessories[34]: _nameless.234.0e03.1138
+ accessories[35]: _nameless.234.0e03.12b8
+ accessories[36]: _nameless.234.0e03.1438
+ accessories[37]: _nameless.234.0e03.14f8
+ accessories[38]: _nameless.234.0e03.4af8
+ accessories[39]: _nameless.234.0e03.3ef8
+ accessories[40]: _nameless.234.0e03.4c78
+ accessories[41]: _nameless.234.0e03.35f8
+ odometer: 75179
+ odometer_float_part: 0
+ integrity_odometer: 75179
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS155|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3daa34a1
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3c32d6a5
+ wheels_wear_unfixable[1]: &3c32d6a5
+ wheels_wear_unfixable[2]: &3c32d6a5
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.e3d8 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3cc79072
+ transmission_wear_unfixable: &3d74dfe3
+ cabin_wear_unfixable: &3d135116
+ fuel_relative: &3de31d8d
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 33
+ accessories[0]: _nameless.234.0b8f.7088
+ accessories[1]: _nameless.234.0b8f.7448
+ accessories[2]: _nameless.234.0b8f.6668
+ accessories[3]: _nameless.234.0b8f.6cc8
+ accessories[4]: _nameless.234.0b8f.7688
+ accessories[5]: _nameless.234.0b8f.6d88
+ accessories[6]: _nameless.234.0b8f.6728
+ accessories[7]: _nameless.234.0e60.a718
+ accessories[8]: _nameless.234.0e60.cb68
+ accessories[9]: _nameless.234.0e60.cee8
+ accessories[10]: _nameless.234.0e60.d038
+ accessories[11]: _nameless.234.0e60.d498
+ accessories[12]: _nameless.234.0e60.d818
+ accessories[13]: _nameless.234.0e60.ce08
+ accessories[14]: _nameless.234.0e60.c008
+ accessories[15]: _nameless.234.0e60.c3f8
+ accessories[16]: _nameless.234.0e60.d738
+ accessories[17]: _nameless.234.0e60.c318
+ accessories[18]: _nameless.234.0e60.d3b8
+ accessories[19]: _nameless.234.0e60.c388
+ accessories[20]: _nameless.234.0e60.beb8
+ accessories[21]: _nameless.234.0e60.d0a8
+ accessories[22]: _nameless.234.0332.d468
+ accessories[23]: _nameless.234.0e03.42b8
+ accessories[24]: _nameless.234.0e03.3538
+ accessories[25]: _nameless.234.0e03.4678
+ accessories[26]: _nameless.234.0e03.4738
+ accessories[27]: _nameless.234.0e03.4eb8
+ accessories[28]: _nameless.234.0e03.3fb8
+ accessories[29]: _nameless.234.0e03.4df8
+ accessories[30]: _nameless.234.0e03.3478
+ accessories[31]: _nameless.234.0e03.4f78
+ accessories[32]: _nameless.234.0e03.56f8
+ odometer: 63750
+ odometer_float_part: 0
+ integrity_odometer: 63750
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS156|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3db0ea09
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3d22bbf9
+ wheels_wear_unfixable[1]: &3d22bbf9
+ wheels_wear_unfixable[2]: &3d22bbf9
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.df58 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d74dead
+ transmission_wear_unfixable: &3d9545ee
+ cabin_wear_unfixable: &3d2aa707
+ fuel_relative: &3f3437ad
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 43
+ accessories[0]: _nameless.234.0b8f.7328
+ accessories[1]: _nameless.234.0b8f.77a8
+ accessories[2]: _nameless.234.0b8f.6128
+ accessories[3]: _nameless.234.0b8f.6248
+ accessories[4]: _nameless.234.0b8f.70e8
+ accessories[5]: _nameless.234.0b8f.6368
+ accessories[6]: _nameless.234.0b8f.87c8
+ accessories[7]: _nameless.234.0332.e228
+ accessories[8]: _nameless.234.0e60.d6c8
+ accessories[9]: _nameless.234.0e60.c9a8
+ accessories[10]: _nameless.234.0e60.c468
+ accessories[11]: _nameless.234.0e60.c1c8
+ accessories[12]: _nameless.234.0e60.ce78
+ accessories[13]: _nameless.234.0e60.c778
+ accessories[14]: _nameless.234.0e60.c078
+ accessories[15]: _nameless.234.0e60.ca18
+ accessories[16]: _nameless.234.0e60.ca88
+ accessories[17]: _nameless.234.0e60.cd98
+ accessories[18]: _nameless.234.0e60.d428
+ accessories[19]: _nameless.234.0e60.c0e8
+ accessories[20]: _nameless.234.0e03.39b8
+ accessories[21]: _nameless.234.0e03.5ab8
+ accessories[22]: _nameless.234.0e03.4138
+ accessories[23]: _nameless.234.0e03.44f8
+ accessories[24]: _nameless.234.0e03.51b8
+ accessories[25]: _nameless.234.0e03.4378
+ accessories[26]: _nameless.234.0e03.41f8
+ accessories[27]: _nameless.234.0e03.5638
+ accessories[28]: _nameless.234.0e03.4078
+ accessories[29]: _nameless.234.0e03.4978
+ accessories[30]: _nameless.234.0e03.5038
+ accessories[31]: _nameless.234.0e03.5278
+ accessories[32]: _nameless.234.0e03.5938
+ accessories[33]: _nameless.234.0e03.5e78
+ accessories[34]: _nameless.234.0e03.57b8
+ accessories[35]: _nameless.234.0e03.5b78
+ accessories[36]: _nameless.234.0e03.4438
+ accessories[37]: _nameless.234.0e03.36b8
+ accessories[38]: _nameless.234.0e03.5c38
+ accessories[39]: _nameless.234.0e03.50f8
+ accessories[40]: _nameless.234.0e03.5578
+ accessories[41]: _nameless.234.0e03.45b8
+ accessories[42]: _nameless.234.0e03.3778
+ odometer: 33805
+ odometer_float_part: 0
+ integrity_odometer: 33805
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS157|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3d3331b9
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3db5121a
+ wheels_wear_unfixable[1]: &3db5121a
+ wheels_wear_unfixable[2]: &3db5121a
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0372.0358 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d71d769
+ transmission_wear_unfixable: &3e3a1479
+ cabin_wear_unfixable: &3d54b41c
+ fuel_relative: &3dfc50c0
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 35
+ accessories[0]: _nameless.234.0b8f.8e88
+ accessories[1]: _nameless.234.0b8f.82e8
+ accessories[2]: _nameless.234.0b8f.7b08
+ accessories[3]: _nameless.234.0b8f.8fa8
+ accessories[4]: _nameless.234.0b8f.89a8
+ accessories[5]: _nameless.234.0b8f.8b88
+ accessories[6]: _nameless.234.0b8f.8288
+ accessories[7]: _nameless.234.0332.d5c8
+ accessories[8]: _nameless.234.0e60.c5b8
+ accessories[9]: _nameless.234.0e60.bd68
+ accessories[10]: _nameless.234.0e60.c8c8
+ accessories[11]: _nameless.234.0e60.ccb8
+ accessories[12]: _nameless.234.0e60.bdd8
+ accessories[13]: _nameless.234.0e60.be48
+ accessories[14]: _nameless.234.0e60.d268
+ accessories[15]: _nameless.234.0e60.cc48
+ accessories[16]: _nameless.234.0e60.c628
+ accessories[17]: _nameless.234.0e60.cd28
+ accessories[18]: _nameless.234.0e60.d348
+ accessories[19]: _nameless.234.0e60.c708
+ accessories[20]: _nameless.234.0e03.4bb8
+ accessories[21]: _nameless.234.0e03.3d78
+ accessories[22]: _nameless.234.0e03.4a38
+ accessories[23]: _nameless.234.0e03.47f8
+ accessories[24]: _nameless.234.0e03.5878
+ accessories[25]: _nameless.234.0e03.59f8
+ accessories[26]: _nameless.234.0e03.3b38
+ accessories[27]: _nameless.234.0e03.33b8
+ accessories[28]: _nameless.234.0e03.5338
+ accessories[29]: _nameless.234.0e03.3838
+ accessories[30]: _nameless.234.0e03.48b8
+ accessories[31]: _nameless.234.0e03.38f8
+ accessories[32]: _nameless.234.0e03.4d38
+ accessories[33]: _nameless.234.0e03.53f8
+ accessories[34]: _nameless.234.0e03.54b8
+ odometer: 398315
+ odometer_float_part: 0
+ integrity_odometer: 398315
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS158|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3def6ed8
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3dc73ac2
+ wheels_wear_unfixable[1]: &3dc73ac2
+ wheels_wear_unfixable[2]: &3dc73ac2
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.9758 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d1bf558
+ transmission_wear_unfixable: &3c812db2
+ cabin_wear_unfixable: &3cf45cc6
+ fuel_relative: &3f471a71
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 61
+ accessories[0]: _nameless.234.0b8f.7aa8
+ accessories[1]: _nameless.234.0b8f.7b68
+ accessories[2]: _nameless.234.0b8f.8c48
+ accessories[3]: _nameless.234.0b8f.7f28
+ accessories[4]: _nameless.234.0b8f.8048
+ accessories[5]: _nameless.234.0b8f.8468
+ accessories[6]: _nameless.234.0b8f.85e8
+ accessories[7]: _nameless.234.0e60.d5e8
+ accessories[8]: _nameless.234.0e60.df88
+ accessories[9]: _nameless.234.0e60.df18
+ accessories[10]: _nameless.234.0e60.e618
+ accessories[11]: _nameless.234.0e60.e1b8
+ accessories[12]: _nameless.234.0e60.e3e8
+ accessories[13]: _nameless.234.0e60.e068
+ accessories[14]: _nameless.234.0e60.ea08
+ accessories[15]: _nameless.234.0e60.eed8
+ accessories[16]: _nameless.234.0e60.e458
+ accessories[17]: _nameless.234.0e60.ed18
+ accessories[18]: _nameless.234.0e60.dff8
+ accessories[19]: _nameless.234.0e60.e228
+ accessories[20]: _nameless.234.0e60.ebc8
+ accessories[21]: _nameless.234.0e60.db98
+ accessories[22]: _nameless.234.0332.d938
+ accessories[23]: _nameless.234.0e03.3e38
+ accessories[24]: _nameless.234.0e03.5cf8
+ accessories[25]: _nameless.234.0e03.5db8
+ accessories[26]: _nameless.234.0e03.5f38
+ accessories[27]: _nameless.234.0e03.3a78
+ accessories[28]: _nameless.234.0e03.5ff8
+ accessories[29]: _nameless.234.0e03.30b8
+ accessories[30]: _nameless.234.0e03.3178
+ accessories[31]: _nameless.234.0e03.32f8
+ accessories[32]: _nameless.234.0e03.3238
+ accessories[33]: _nameless.234.0e03.3bf8
+ accessories[34]: _nameless.234.0e03.3cb8
+ accessories[35]: _nameless.234.0e03.71f8
+ accessories[36]: _nameless.234.0e03.77f8
+ accessories[37]: _nameless.234.0e03.8b78
+ accessories[38]: _nameless.234.0e03.6238
+ accessories[39]: _nameless.234.0e03.86f8
+ accessories[40]: _nameless.234.0e03.7678
+ accessories[41]: _nameless.234.0e03.7738
+ accessories[42]: _nameless.234.0e03.8e78
+ accessories[43]: _nameless.234.0e03.7a38
+ accessories[44]: _nameless.234.0e03.6fb8
+ accessories[45]: _nameless.234.0e03.75b8
+ accessories[46]: _nameless.234.0e03.7378
+ accessories[47]: _nameless.234.0e03.8f38
+ accessories[48]: _nameless.234.0e03.8938
+ accessories[49]: _nameless.234.0e03.7c78
+ accessories[50]: _nameless.234.0e03.8578
+ accessories[51]: _nameless.234.0e03.8cf8
+ accessories[52]: _nameless.234.0e03.6478
+ accessories[53]: _nameless.234.0e03.8638
+ accessories[54]: _nameless.234.0e03.87b8
+ accessories[55]: _nameless.234.0e03.8278
+ accessories[56]: _nameless.234.0e03.8db8
+ accessories[57]: _nameless.234.0e03.8ff8
+ accessories[58]: _nameless.234.0e03.62f8
+ accessories[59]: _nameless.234.0e03.89f8
+ accessories[60]: _nameless.234.0e03.8878
+ odometer: 70724
+ odometer_float_part: 0
+ integrity_odometer: 70724
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS159|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3ce55eab
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3d8e75b4
+ wheels_wear_unfixable[1]: &3d8e75b4
+ wheels_wear_unfixable[2]: &3d8e75b4
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.fc98 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d8906a2
+ transmission_wear_unfixable: &3d20a316
+ cabin_wear_unfixable: &3dc72cc4
+ fuel_relative: &3efb968c
+ rheostat_factor: &3f400000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 43
+ accessories[0]: _nameless.234.0b8f.8ca8
+ accessories[1]: _nameless.234.0b8f.8b28
+ accessories[2]: _nameless.234.0b8f.8d08
+ accessories[3]: _nameless.234.0b8f.9068
+ accessories[4]: _nameless.234.0b8f.7fe8
+ accessories[5]: _nameless.234.0b8f.8d68
+ accessories[6]: _nameless.234.0b8f.9008
+ accessories[7]: _nameless.234.0e60.ea78
+ accessories[8]: _nameless.234.0e5e.f198
+ accessories[9]: _nameless.234.0e5e.eda8
+ accessories[10]: _nameless.234.0e5e.eb08
+ accessories[11]: _nameless.234.0e5e.ee88
+ accessories[12]: _nameless.234.0e5e.f9e8
+ accessories[13]: _nameless.234.0e5e.f278
+ accessories[14]: _nameless.234.0e5e.fac8
+ accessories[15]: _nameless.234.0e5e.e8d8
+ accessories[16]: _nameless.234.0e5e.f2e8
+ accessories[17]: _nameless.234.0e5e.e2b8
+ accessories[18]: _nameless.234.0e5e.f358
+ accessories[19]: _nameless.234.0e5e.f588
+ accessories[20]: _nameless.234.0e5e.fa58
+ accessories[21]: _nameless.234.0e5e.efd8
+ accessories[22]: _nameless.234.0332.d9e8
+ accessories[23]: _nameless.234.0e03.6b38
+ accessories[24]: _nameless.234.0e03.68f8
+ accessories[25]: _nameless.234.0e03.78b8
+ accessories[26]: _nameless.234.0e03.69b8
+ accessories[27]: _nameless.234.0e03.8c38
+ accessories[28]: _nameless.234.0e03.65f8
+ accessories[29]: _nameless.234.0e03.6d78
+ accessories[30]: _nameless.234.0e03.60b8
+ accessories[31]: _nameless.234.0e03.7d38
+ accessories[32]: _nameless.234.0e03.6bf8
+ accessories[33]: _nameless.234.0e03.6178
+ accessories[34]: _nameless.234.0e03.66b8
+ accessories[35]: _nameless.234.0e03.6cb8
+ accessories[36]: _nameless.234.0e03.63b8
+ accessories[37]: _nameless.234.0e03.6e38
+ accessories[38]: _nameless.234.0e03.7438
+ accessories[39]: _nameless.234.0e03.8ab8
+ accessories[40]: _nameless.234.0e03.6778
+ accessories[41]: _nameless.234.0e03.6ef8
+ accessories[42]: _nameless.234.0e03.6538
+ odometer: 91613
+ odometer_float_part: 0
+ integrity_odometer: 91613
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS160|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3dcc2c0f
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3b1a0312
+ wheels_wear_unfixable[1]: &3b1a0312
+ wheels_wear_unfixable[2]: &3b1a0312
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.f158 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d81c0f4
+ transmission_wear_unfixable: &3dfd220d
+ cabin_wear_unfixable: &3daea1c7
+ fuel_relative: &3f365367
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 35
+ accessories[0]: _nameless.234.0b8f.8228
+ accessories[1]: _nameless.234.0b8f.a7a8
+ accessories[2]: _nameless.234.0b8f.9ba8
+ accessories[3]: _nameless.234.0b8f.a0e8
+ accessories[4]: _nameless.234.0b8f.9908
+ accessories[5]: _nameless.234.0b8f.a868
+ accessories[6]: _nameless.234.0b8f.9f68
+ accessories[7]: _nameless.234.0332.db48
+ accessories[8]: _nameless.234.0e5e.f128
+ accessories[9]: _nameless.234.0e5e.f438
+ accessories[10]: _nameless.234.0e5e.e558
+ accessories[11]: _nameless.234.0e5e.e478
+ accessories[12]: _nameless.234.0e5e.ef68
+ accessories[13]: _nameless.234.0e5e.e4e8
+ accessories[14]: _nameless.234.0e5e.fc18
+ accessories[15]: _nameless.234.0e5e.f4a8
+ accessories[16]: _nameless.234.0e5e.f748
+ accessories[17]: _nameless.234.0e5e.f048
+ accessories[18]: _nameless.234.0e5e.e638
+ accessories[19]: _nameless.234.0e5e.f518
+ accessories[20]: _nameless.234.0e03.7f78
+ accessories[21]: _nameless.234.0e03.80f8
+ accessories[22]: _nameless.234.0e03.6838
+ accessories[23]: _nameless.234.0e03.8038
+ accessories[24]: _nameless.234.0e03.6a78
+ accessories[25]: _nameless.234.0e03.7078
+ accessories[26]: _nameless.234.0e03.74f8
+ accessories[27]: _nameless.234.0e03.7138
+ accessories[28]: _nameless.234.0e03.72b8
+ accessories[29]: _nameless.234.0e03.7978
+ accessories[30]: _nameless.234.0e03.7af8
+ accessories[31]: _nameless.234.0e03.7bb8
+ accessories[32]: _nameless.234.0e03.7df8
+ accessories[33]: _nameless.234.0e03.7eb8
+ accessories[34]: _nameless.234.0e03.81b8
+ odometer: 392999
+ odometer_float_part: 0
+ integrity_odometer: 392999
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS161|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3e5b0296
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3d9cbfce
+ wheels_wear_unfixable[1]: &3d9cbfce
+ wheels_wear_unfixable[2]: &3d9cbfce
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.f398 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3c9c64c8
+ transmission_wear_unfixable: &3d41d4eb
+ cabin_wear_unfixable: &3d284e15
+ fuel_relative: &3f09b745
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 43
+ accessories[0]: _nameless.234.0b8f.9128
+ accessories[1]: _nameless.234.0b8f.9fc8
+ accessories[2]: _nameless.234.0b8f.9968
+ accessories[3]: _nameless.234.0b8f.a028
+ accessories[4]: _nameless.234.0b8f.a088
+ accessories[5]: _nameless.234.0b8f.a628
+ accessories[6]: _nameless.234.0b8f.9c68
+ accessories[7]: _nameless.234.0332.dd58
+ accessories[8]: _nameless.234.0e5e.fba8
+ accessories[9]: _nameless.234.0e5e.e788
+ accessories[10]: _nameless.234.0e5e.e948
+ accessories[11]: _nameless.234.0e5e.e0f8
+ accessories[12]: _nameless.234.0e5e.e168
+ accessories[13]: _nameless.234.0e5e.e408
+ accessories[14]: _nameless.234.0e5e.e9b8
+ accessories[15]: _nameless.234.0e5e.ea28
+ accessories[16]: _nameless.234.0e5e.e328
+ accessories[17]: _nameless.234.0e5e.e398
+ accessories[18]: _nameless.234.0e5e.e5c8
+ accessories[19]: _nameless.234.0e5e.ea98
+ accessories[20]: _nameless.234.0e03.84b8
+ accessories[21]: _nameless.234.0e03.8338
+ accessories[22]: _nameless.234.0e03.83f8
+ accessories[23]: _nameless.234.0e03.9d78
+ accessories[24]: _nameless.234.0e03.90b8
+ accessories[25]: _nameless.234.0e03.9e38
+ accessories[26]: _nameless.234.0e03.93b8
+ accessories[27]: _nameless.234.0e03.9778
+ accessories[28]: _nameless.234.0e03.9178
+ accessories[29]: _nameless.234.0e03.9b38
+ accessories[30]: _nameless.234.0e03.9bf8
+ accessories[31]: _nameless.234.0e03.9238
+ accessories[32]: _nameless.234.0e03.96b8
+ accessories[33]: _nameless.234.0e03.9cb8
+ accessories[34]: _nameless.234.0e03.9478
+ accessories[35]: _nameless.234.0e03.92f8
+ accessories[36]: _nameless.234.0e03.95f8
+ accessories[37]: _nameless.234.0e03.9538
+ accessories[38]: _nameless.234.0e03.9838
+ accessories[39]: _nameless.234.0e03.99b8
+ accessories[40]: _nameless.234.0e03.9ef8
+ accessories[41]: _nameless.234.0e03.9a78
+ accessories[42]: _nameless.234.0e03.98f8
+ odometer: 26990
+ odometer_float_part: 0
+ integrity_odometer: 26990
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS162|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3d4e910f
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3b75f6b5
+ wheels_wear_unfixable[1]: &3b75f6b5
+ wheels_wear_unfixable[2]: &3b75f6b5
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.fed8 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d65c0fa
+ transmission_wear_unfixable: &3d45e0cc
+ cabin_wear_unfixable: &3d80e256
+ fuel_relative: &3eef2a4a
+ rheostat_factor: &3f400000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 43
+ accessories[0]: _nameless.234.0b8f.96c8
+ accessories[1]: _nameless.234.0b8f.9728
+ accessories[2]: _nameless.234.0b8f.98a8
+ accessories[3]: _nameless.234.0b8f.9cc8
+ accessories[4]: _nameless.234.0b8f.9a28
+ accessories[5]: _nameless.234.0b8f.9d88
+ accessories[6]: _nameless.234.0b8f.9e48
+ accessories[7]: _nameless.234.0e5e.ec58
+ accessories[8]: _nameless.234.0e5f.0fc8
+ accessories[9]: _nameless.234.0e5f.04d8
+ accessories[10]: _nameless.234.0e5f.0b68
+ accessories[11]: _nameless.234.0e5f.0778
+ accessories[12]: _nameless.234.0e5f.12d8
+ accessories[13]: _nameless.234.0e5f.15e8
+ accessories[14]: _nameless.234.0e5f.16c8
+ accessories[15]: _nameless.234.0e5f.03f8
+ accessories[16]: _nameless.234.0e5f.1738
+ accessories[17]: _nameless.234.0e5f.17a8
+ accessories[18]: _nameless.234.0e5f.10a8
+ accessories[19]: _nameless.234.0e5f.05b8
+ accessories[20]: _nameless.234.0e5f.09a8
+ accessories[21]: _nameless.234.0e5f.07e8
+ accessories[22]: _nameless.234.0332.f1f8
+ accessories[23]: _nameless.234.0e42.3938
+ accessories[24]: _nameless.234.0e42.1778
+ accessories[25]: _nameless.234.0e42.19b8
+ accessories[26]: _nameless.234.0e42.3ab8
+ accessories[27]: _nameless.234.0e42.2138
+ accessories[28]: _nameless.234.0e42.24f8
+ accessories[29]: _nameless.234.0e42.31b8
+ accessories[30]: _nameless.234.0e42.22b8
+ accessories[31]: _nameless.234.0e42.21f8
+ accessories[32]: _nameless.234.0e42.3638
+ accessories[33]: _nameless.234.0e42.2078
+ accessories[34]: _nameless.234.0e42.2978
+ accessories[35]: _nameless.234.0e42.2f78
+ accessories[36]: _nameless.234.0e42.3278
+ accessories[37]: _nameless.234.0e42.2378
+ accessories[38]: _nameless.234.0e42.3e78
+ accessories[39]: _nameless.234.0e42.36f8
+ accessories[40]: _nameless.234.0e42.37b8
+ accessories[41]: _nameless.234.0e42.39f8
+ accessories[42]: _nameless.234.0e42.12f8
+ odometer: 20327
+ odometer_float_part: 0
+ integrity_odometer: 20327
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS163|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3d83b825
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3d2dfea4
+ wheels_wear_unfixable[1]: &3d2dfea4
+ wheels_wear_unfixable[2]: &3d2dfea4
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.f5d8 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3daee53a
+ transmission_wear_unfixable: &3d97feab
+ cabin_wear_unfixable: &3cd9e0c6
+ fuel_relative: &3eb1929c
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 46
+ accessories[0]: _nameless.234.0b8f.be88
+ accessories[1]: _nameless.234.0b8f.c068
+ accessories[2]: _nameless.234.0b8f.b8e8
+ accessories[3]: _nameless.234.0b8f.b108
+ accessories[4]: _nameless.234.0b8f.bf48
+ accessories[5]: _nameless.234.0b8f.b888
+ accessories[6]: _nameless.234.0b8f.b168
+ accessories[7]: _nameless.234.0332.e018
+ accessories[8]: _nameless.234.0e5f.0858
+ accessories[9]: _nameless.234.0e5f.08c8
+ accessories[10]: _nameless.234.0e5f.0a88
+ accessories[11]: _nameless.234.0e5f.0af8
+ accessories[12]: _nameless.234.0e5f.2a08
+ accessories[13]: _nameless.234.0e5f.3418
+ accessories[14]: _nameless.234.0e5f.2ae8
+ accessories[15]: _nameless.234.0e5f.3108
+ accessories[16]: _nameless.234.0e5f.2a78
+ accessories[17]: _nameless.234.0e5f.1f88
+ accessories[18]: _nameless.234.0e5f.2bc8
+ accessories[19]: _nameless.234.0e5f.2ed8
+ accessories[20]: _nameless.234.0e42.25b8
+ accessories[21]: _nameless.234.0e42.1bf8
+ accessories[22]: _nameless.234.0e42.3cf8
+ accessories[23]: _nameless.234.0e42.1e38
+ accessories[24]: _nameless.234.0e42.2438
+ accessories[25]: _nameless.234.0e42.3878
+ accessories[26]: _nameless.234.0e42.15f8
+ accessories[27]: _nameless.234.0e42.1cb8
+ accessories[28]: _nameless.234.0e42.3db8
+ accessories[29]: _nameless.234.0e42.1b38
+ accessories[30]: _nameless.234.0e42.3338
+ accessories[31]: _nameless.234.0e42.2678
+ accessories[32]: _nameless.234.0e42.1d78
+ accessories[33]: _nameless.234.0e42.18f8
+ accessories[34]: _nameless.234.0e42.2eb8
+ accessories[35]: _nameless.234.0e42.33f8
+ accessories[36]: _nameless.234.0e42.3c38
+ accessories[37]: _nameless.234.0e42.2a38
+ accessories[38]: _nameless.234.0e42.1ef8
+ accessories[39]: _nameless.234.0e42.10b8
+ accessories[40]: _nameless.234.0e42.1a78
+ accessories[41]: _nameless.234.0e42.2738
+ accessories[42]: _nameless.234.0e42.1fb8
+ accessories[43]: _nameless.234.0e42.3f38
+ accessories[44]: _nameless.234.0e42.16b8
+ accessories[45]: _nameless.234.0e42.27f8
+ odometer: 18540
+ odometer_float_part: 0
+ integrity_odometer: 18540
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS164|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3d68dced
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3da2a0d9
+ wheels_wear_unfixable[1]: &3da2a0d9
+ wheels_wear_unfixable[2]: &3da2a0d9
+ sliding_axle_offset: 0
+}
+
+vehicle : _nameless.234.0371.f818 {
+ engine_wear: 0
+ transmission_wear: 0
+ cabin_wear: 0
+ engine_wear_unfixable: &3d9260c1
+ transmission_wear_unfixable: &3dc71f38
+ cabin_wear_unfixable: &3d168edb
+ fuel_relative: &3e19629d
+ rheostat_factor: &3f400000
+ user_mirror_rot: 0
+ user_head_offset: (0, 0, 0)
+ user_fov: 0
+ user_wheel_up_down: 0
+ user_wheel_front_back: 0
+ user_mouse_left_right_default: 0
+ user_mouse_up_down_default: 0
+ purchase_time: 0
+ passenger_mass: 0
+ requested_passenger_mass: 0
+ accessories: 28
+ accessories[0]: _nameless.234.0b8f.ba08
+ accessories[1]: _nameless.234.0b8f.ba68
+ accessories[2]: _nameless.234.0b8f.bac8
+ accessories[3]: _nameless.234.0b8f.bb28
+ accessories[4]: _nameless.234.0b8f.b048
+ accessories[5]: _nameless.234.0b8f.be28
+ accessories[6]: _nameless.234.0b8f.a988
+ accessories[7]: _nameless.234.0e5f.1c08
+ accessories[8]: _nameless.234.0e5f.1c78
+ accessories[9]: _nameless.234.0e5f.20d8
+ accessories[10]: _nameless.234.0e5f.1dc8
+ accessories[11]: _nameless.234.0e5f.2378
+ accessories[12]: _nameless.234.0e5f.27d8
+ accessories[13]: _nameless.234.0e5f.23e8
+ accessories[14]: _nameless.234.0e5f.2538
+ accessories[15]: _nameless.234.0e5f.2458
+ accessories[16]: _nameless.234.0e5f.2618
+ accessories[17]: _nameless.234.0e5f.2768
+ accessories[18]: _nameless.234.0e5f.2848
+ accessories[19]: _nameless.234.0332.de08
+ accessories[20]: _nameless.234.0e42.2af8
+ accessories[21]: _nameless.234.0e42.1178
+ accessories[22]: _nameless.234.0e42.28b8
+ accessories[23]: _nameless.234.0e42.30f8
+ accessories[24]: _nameless.234.0e42.2bb8
+ accessories[25]: _nameless.234.0e42.1238
+ accessories[26]: _nameless.234.0e42.2c78
+ accessories[27]: _nameless.234.0e42.3b78
+ odometer: 62244
+ odometer_float_part: 0
+ integrity_odometer: 62244
+ integrity_odometer_float_part: 0
+ trip_fuel_l: 0
+ trip_fuel: 0
+ trip_recuperation_kwh: 0
+ trip_recuperation: 0
+ trip_distance_km: 0
+ trip_distance: 0
+ trip_time_min: 0
+ trip_time: 0
+ license_plate: "ATS165|california"
+ chassis_wear: 0
+ chassis_wear_unfixable: &3ccf2a2d
+ wheels_wear: 3
+ wheels_wear[0]: 0
+ wheels_wear[1]: 0
+ wheels_wear[2]: 0
+ wheels_wear_unfixable: 3
+ wheels_wear_unfixable[0]: &3d868a00
+ wheels_wear_unfixable[1]: &3d868a00
+ wheels_wear_unfixable[2]: &3d868a00
+ sliding_axle_offset: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.3128 {
+ data_path: "/def/vehicle/truck/intnational.lt/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.41a8 {
+ data_path: "/def/vehicle/truck/intnational.lt/chassis/6x4_long.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.4208 {
+ data_path: "/def/vehicle/truck/intnational.lt/cabin/skyrise.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.47a8 {
+ data_path: "/def/vehicle/truck/intnational.lt/interior/sky_lux.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.37e8 {
+ data_path: "/def/vehicle/truck/intnational.lt/engine/x15_565.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.42c8 {
+ data_path: "/def/vehicle/truck/intnational.lt/transmission/18_speed.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.34e8 {
+ data_path: "/def/vehicle/truck/intnational.lt/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.ed28 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (&3f18e23b, &3dd16441, &3c9ec700)
+ flip_color: (&3e10aa22, &3c339e28, &3c1f5169)
+ base_color: (&3f337996, &3d51ff71, &3c830a0b)
+ data_path: "/def/vehicle/truck/intnational.lt/paint_job/color13.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.7bc8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.7d18 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.7d88 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.7df8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.7ed8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.7f48 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8028 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8098 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.96e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9b48 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8808 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9838 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8f78 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8f08 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9ad8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e078 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/airdam/extended.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e978 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/badge/cummins.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f038 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/bumper/luxury.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f1b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/cab_exhaust/empty.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f938 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/doorhndl/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.ff38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/exhaust/skyrise_back.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f638 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/f_fender/plast.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.fb78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/f_light_chs/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e438 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/grill/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.d478 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/hood/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.ed38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/mirror/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f7b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/mudflaps/aero.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.d838 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/mudguard/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.d9b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/s_deflector/skyrise_ext.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.fab8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/s_panel/skyrise_panel.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e1f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/sideskirt/long_paint.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e4f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/steering_w/exclusive.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f338 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/sunshield/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e2b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/tank/chrome_280.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e378 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.lt/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.3de8 {
+ data_path: "/def/vehicle/truck/volvo.vnl/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.3ea8 {
+ data_path: "/def/vehicle/truck/volvo.vnl/chassis/short.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5ac8 {
+ data_path: "/def/vehicle/truck/volvo.vnl/cabin/duty.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5b88 {
+ data_path: "/def/vehicle/truck/volvo.vnl/interior/cab_ae.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5b28 {
+ data_path: "/def/vehicle/truck/volvo.vnl/engine/d13_435.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.59a8 {
+ data_path: "/def/vehicle/truck/volvo.vnl/transmission/13_speed.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5768 {
+ data_path: "/def/vehicle/truck/volvo.vnl/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.eaf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/f_light_chs/stock.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9368 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9de8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.85d8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9bb8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.91a8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.97c8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8728 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9d78 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8798 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9f38 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.93d8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8cd8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.d1a8 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3df4bc6a, &3a1d4952, &3c535a86)
+ data_path: "/def/vehicle/truck/volvo.vnl/paint_job/color0.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e5b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/mirror/shape02.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e7f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/bumper/shape04.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f0f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/sideskirt/shape01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.d5f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/sideskrt_bar/shape01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.d6b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/exhaust/shape01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.fff8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/deflector/shape01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.da78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/grill/shape02.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e678 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/mudflaps/shape02.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f3f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/r_deflector/shape01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.e738 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/doorhndl/shape2.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.fcf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/steering_w/default.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f9f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.57c8 {
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5d68 {
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/chassis/6x2_mid_200.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.4c88 {
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/cabin/sleeper_48.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.4da8 {
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/interior/s48_std_gray.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5e28 {
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/engine/x15_450.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5168 {
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/transmission/13_speed.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5348 {
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/head_light/led.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.e4e8 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (&3f6797dd, &3f634eec, &3f58ccab)
+ flip_color: (&3dd16441, &3dd16441, &3dd16441)
+ base_color: (&3ec295a7, &3eaf179c, &3e9a452c)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/paint_job/color9_b.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8fe8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a018 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a088 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8648 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9d08 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8958 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8d48 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8db8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9448 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.98a8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8e28 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.8e98 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f4b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/badge/cummins.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.ebb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/bumper/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.d3b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/doorhndl/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.f878 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/exhaust/s48_bottom.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.ec78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/f_light_chs/daylight.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e02.d0b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/filters/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0838 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/grill/chrome2.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.06b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/hndrail/chrome_right.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.17f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/hood/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1d38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/mirror/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1eb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/mudflaps/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.21b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/rear_cab/hvac.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1af8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideflares/mid_standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0ef8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideskirt/mid_200_uncover.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1c78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/steering_w/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.05f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sunshield/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0b38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5648 {
+ data_path: "/def/vehicle/truck/mack.pinnacle/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5f48 {
+ data_path: "/def/vehicle/truck/mack.pinnacle/chassis/6x4_long.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.53a8 {
+ data_path: "/def/vehicle/truck/mack.pinnacle/cabin/sleeper_70.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.58e8 {
+ data_path: "/def/vehicle/truck/mack.pinnacle/interior/s70_ultra.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5108 {
+ data_path: "/def/vehicle/truck/mack.pinnacle/engine/mp8_505.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5fa8 {
+ data_path: "/def/vehicle/truck/mack.pinnacle/transmission/18_speed_retarder.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5828 {
+ data_path: "/def/vehicle/truck/mack.pinnacle/head_light/led.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.9608 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ad38 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_05.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b208 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a558 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a478 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ae88 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a4e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_05.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.bc18 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b2e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b748 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b198 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a638 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_05.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b3c8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b7b8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b908 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.d3b8 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3bc49ba6, &3bc49ba6, &3bc49ba6)
+ data_path: "/def/vehicle/truck/mack.pinnacle/paint_job/color2.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1df8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/badge/mack.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1f78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/bumper/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1678 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/cabdefl/s70_roof_cap_exclusive.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.11f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/doorhndl/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.18b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/exhaust/s70_double.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2b78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/f_light_chs/led.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0238 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/filters/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.26f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/grill/new.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1738 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/hndrail/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1978 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/hood/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2e78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/mirror/flare.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1a38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/mudflaps/exclusive_dog.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0fb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/mudguard/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.15b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/ornament/silver_dog.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1378 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/rear_cab/s70_chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2f38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/s_deflector/s70_exclusive_chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2938 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/s_mirror/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2038 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/sideflares/s70_orange_chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2578 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/sideskirt/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2cf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/steering_w/ultra.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0478 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/sunshield/s70_paint_chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2638 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/slp_hndl/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.27b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/tank/chrome_117_117.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2278 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2db8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.pinnacle/accessory/windowtrim/s70_chrome.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.54c8 {
+ data_path: "/def/vehicle/truck/kenworth.t680/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.4988 {
+ data_path: "/def/vehicle/truck/kenworth.t680/chassis/short.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.5948 {
+ data_path: "/def/vehicle/truck/kenworth.t680/cabin/duty.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.4a48 {
+ data_path: "/def/vehicle/truck/kenworth.t680/interior/cab_a_s_g.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6548 {
+ data_path: "/def/vehicle/truck/kenworth.t680/engine/mx.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7028 {
+ data_path: "/def/vehicle/truck/kenworth.t680/transmission/13_speed.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.72c8 {
+ data_path: "/def/vehicle/truck/kenworth.t680/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ba58 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.aef8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.af68 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b438 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a9b8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a5c8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a6a8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b9e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ab08 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b668 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b6d8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b4a8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.efe8 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (1, &3f2fc505, &3f0559b4)
+ flip_color: (&3d2d42c4, &3b449ba6, &3b449ba6)
+ base_color: (&3ea8f5c3, &3b449ba6, &3b449ba6)
+ data_path: "/def/vehicle/truck/kenworth.t680/paint_job/color8.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2ff8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/mirror/shape2.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.02f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/bumper/shape02.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.29f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/sideskirt/shape01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2878 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/exhaust/shape02.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0bf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/cabdefl/shape01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1078 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/s_mirror/shape3.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1bb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/mudflaps/shape02.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.20f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/doorhndl/shape1.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0778 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/steering_w/default.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.08f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7628 {
+ data_path: "/def/vehicle/truck/westernstar.49x/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6968 {
+ data_path: "/def/vehicle/truck/westernstar.49x/chassis/6x4_mid_125_sb.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6b48 {
+ data_path: "/def/vehicle/truck/westernstar.49x/cabin/s48_sb.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.71a8 {
+ data_path: "/def/vehicle/truck/westernstar.49x/interior/s48_std.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6a28 {
+ data_path: "/def/vehicle/truck/westernstar.49x/engine/dd16_560.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.69c8 {
+ data_path: "/def/vehicle/truck/westernstar.49x/transmission/dt12_oc.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.73e8 {
+ data_path: "/def/vehicle/truck/westernstar.49x/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.d518 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3c9ec700, &3d0ca81a, &3ca6351e)
+ data_path: "/def/vehicle/truck/westernstar.49x/paint_job/color6.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.afd8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/3.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b898 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a788 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.aa28 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b048 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/3.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b518 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ac58 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.bac8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b588 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/3.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.bba8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b0b8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.b5f8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.09b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/badge/detroit.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0a78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/bumper/stock_sb.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2338 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/doorhndl/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.23f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/exhaust/stock_sleep.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.24b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/filters/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2ab8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_fender/stock_sb.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.2c38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_light_chs/stock_sb.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0cb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_logo/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.03b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_mudflap/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.00b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/grill/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0178 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/hood/stock_sb.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0538 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/mirror/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0d78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/mudflaps/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.0e38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/mudguard/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1138 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/radiator/big.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.12b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/rear_cab/chrome_vent_sleep.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.1438 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/sideflares/chrome_s48.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.14f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/sideskirt/mid_125_chrome_sb.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4af8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/slp_vent/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3ef8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/steering_w/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4c78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/sunshield/chrome_sleep.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.35f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7088 {
+ data_path: "/def/vehicle/truck/peterbilt.579/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7448 {
+ data_path: "/def/vehicle/truck/peterbilt.579/chassis/long.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6668 {
+ data_path: "/def/vehicle/truck/peterbilt.579/cabin/exclusive.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6cc8 {
+ data_path: "/def/vehicle/truck/peterbilt.579/interior/exclusive.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7688 {
+ data_path: "/def/vehicle/truck/peterbilt.579/engine/mx.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6d88 {
+ data_path: "/def/vehicle/truck/peterbilt.579/transmission/allison.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6728 {
+ data_path: "/def/vehicle/truck/peterbilt.579/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.a718 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.cb68 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.cee8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d038 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d498 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d818 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ce08 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c008 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c3f8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d738 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c318 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d3b8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c388 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.beb8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d0a8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.d468 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3e3851ec, &3b449ba6, &3b449ba6)
+ data_path: "/def/vehicle/truck/peterbilt.579/paint_job/color3.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.42b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/sideskirt/shape05.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3538 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/bumper/shape01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4678 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/exhaust/shape06.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4738 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/sunshield/shape02.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4eb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/mirror/shape1.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3fb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/mudflaps/shape02.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4df8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/doorhndl/shape1.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3478 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/steering_w/default.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4f78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/set_cuphold/set_closed.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.56f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/peterbilt.579/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7328 {
+ data_path: "/def/vehicle/truck/westernstar.49x/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.77a8 {
+ data_path: "/def/vehicle/truck/westernstar.49x/chassis/6x4_long_150.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6128 {
+ data_path: "/def/vehicle/truck/westernstar.49x/cabin/s72.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6248 {
+ data_path: "/def/vehicle/truck/westernstar.49x/interior/s72_prm.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.70e8 {
+ data_path: "/def/vehicle/truck/westernstar.49x/engine/dd16_600.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.6368 {
+ data_path: "/def/vehicle/truck/westernstar.49x/transmission/dt12_oc.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.87c8 {
+ data_path: "/def/vehicle/truck/westernstar.49x/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.e228 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3eaca0c3, &3b1f1f15, &3b1f1f15)
+ data_path: "/def/vehicle/truck/westernstar.49x/paint_job/color3.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d6c8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c9a8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c468 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c1c8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ce78 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c778 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c078 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ca18 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ca88 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.cd98 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d428 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c0e8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.39b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/badge/detroit.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5ab8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/bumper/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4138 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/doorhndl/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.44f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/filters/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.51b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_fender/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4378 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_light_chs/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.41f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_logo/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5638 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_mudflap/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4078 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/exhaust/stock_sleep.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4978 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/grill/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5038 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/hood/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5278 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/mirror/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5938 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/mudflaps/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5e78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/mudguard/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.57b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/radiator/big.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5b78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/rear_cab/chrome_cover_sleep.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4438 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/rear2_cab/hvac.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.36b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/s_deflector/s72.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5c38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/sideflares/chrome_s72.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.50f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/sideskirt/long_150_chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5578 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/steering_w/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.45b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/sunshield/chrome_sleep.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3778 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8e88 {
+ data_path: "/def/vehicle/truck/intnational.9900i/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.82e8 {
+ data_path: "/def/vehicle/truck/intnational.9900i/chassis/chs_6x4_short.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7b08 {
+ data_path: "/def/vehicle/truck/intnational.9900i/cabin/day.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8fa8 {
+ data_path: "/def/vehicle/truck/intnational.9900i/interior/day_dark.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.89a8 {
+ data_path: "/def/vehicle/truck/intnational.9900i/engine/isx15_450.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8b88 {
+ data_path: "/def/vehicle/truck/intnational.9900i/transmission/10_speed.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8288 {
+ data_path: "/def/vehicle/truck/intnational.9900i/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.d5c8 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3f19999a, &3f19999a, &3f19999a)
+ data_path: "/def/vehicle/truck/intnational.9900i/paint_job/color0.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c5b8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.bd68 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c8c8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ccb8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_01_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.bdd8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.be48 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d268 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.cc48 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c628 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.cd28 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d348 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.c708 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4bb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/bumper/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3d78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/doorhndl/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4a38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/exhaust/day_back.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.47f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/f_light_chs/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5878 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/filters/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.59f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/grill/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3b38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/hood/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.33b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/mirror/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5338 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/mudflaps/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3838 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/sideflares/paint_short.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.48b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/sideskirt/short_base.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.38f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/steering_w/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.4d38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/sunshield/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.53f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/tank/short_alu_200.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.54b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7aa8 {
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7b68 {
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/chassis/s76_224_6x4.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8c48 {
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/cabin/s76h.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7f28 {
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/interior/s76hb_100.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8048 {
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/engine/mx13_430.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8468 {
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/transmission/tx12.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.85e8 {
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/head_light/led.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.d5e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.df88 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.df18 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.e618 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.e1b8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.e3e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.e068 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ea08 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.eed8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.e458 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ed18 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.dff8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.e228 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ebc8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.db98 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.d938 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (&3f1ef09e, &3f4a90bc, &3f46b9f5)
+ flip_color: (&3dbe78e2, &3debf22c, &3e198dce)
+ base_color: (&3f25d95e, &3f2750b1, &3f2a5721)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/paint_job/color7m_c.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3e38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/badge/paccar.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5cf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/bumper/standard_paint_fog_aero.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5db8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/cabdefl/s76h_standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5f38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/carpet/kw_rubber.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3a78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/codrv_seat/gt3_ult_100.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.5ff8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/cor_def/aero_paint.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.30b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/doorhndl/standard_chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3178 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/doorstep/long_standard_aluminum.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.32f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/exhaust/bottom.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3238 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/f_fender/aero.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3bf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/f_intake_chs/standard_chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.3cb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/f_light_chs/led.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.71f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/f_logo/kw.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.77f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/f_turn_light/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8b78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/filters/short_standard_onyx.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6238 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/grill/standard_onyx.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.86f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/hood/short.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7678 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/int_trim/brushed.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7738 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/int_display/digital_mirror.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8e78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/mirror/camera_paint.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7a38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/mudflaps/round_kw_white.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6fb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/mudguard/standard_kw_bw.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.75b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/r_bumper/standard_led_aero.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7378 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/r_fender/classic_plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8f38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/r_chs_cover/standard_aluminum.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8938 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/rear_cab/standard_aircon.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7c78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/rearstep/standard_left.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8578 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/s_badge/kw_100.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8cf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/s_deflector/s76h_standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6478 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/s_mirror/standard_plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8638 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/s_panel/s76_win_div.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.87b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/sideskirt/s76_short_paint.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8278 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/sideskrt_bar/s76_short_standard_aero.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8db8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/slp_hndl/s76_standard_chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8ff8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/steering_w/std_100.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.62f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/sunshield/sleeper_lamps.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.89f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/tank/long_260_aluminum_sideskirt.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8878 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680_2022/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8ca8 {
+ data_path: "/def/vehicle/truck/mack.anthem/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8b28 {
+ data_path: "/def/vehicle/truck/mack.anthem/chassis/6x4_long_142.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8d08 {
+ data_path: "/def/vehicle/truck/mack.anthem/cabin/sleeper_70.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9068 {
+ data_path: "/def/vehicle/truck/mack.anthem/interior/s70_standard.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.7fe8 {
+ data_path: "/def/vehicle/truck/mack.anthem/engine/mp8_445.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8d68 {
+ data_path: "/def/vehicle/truck/mack.anthem/transmission/mdrive_ato2612f.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9008 {
+ data_path: "/def/vehicle/truck/mack.anthem/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e60.ea78 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f198 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.eda8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.eb08 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.ee88 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f9e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f278 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.fac8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e8d8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f2e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e2b8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f358 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f588 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.fa58 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.efd8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.d9e8 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3f19999a, &3f19999a, &3f19999a)
+ data_path: "/def/vehicle/truck/mack.anthem/paint_job/color1.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6b38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/mirror/paint_dog.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.68f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/bumper/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.78b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/exhaust/s70_double.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.69b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/mudflaps/standard_mack.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8c38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/mudguard/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.65f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/doorhndl/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6d78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/steering_w/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.60b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7d38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/grill/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6bf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/sideskirt/long_142_paint_chrom_step.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6178 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/sideflares/s70_orange.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.66b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/filters/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6cb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/hood/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.63b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/ornament/gold_dog.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6e38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/f_light_chs/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7438 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/sunshield/s70_lights_standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8ab8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/hndrail/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6778 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/slp_hndl/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6ef8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/windowtrim/s70_plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6538 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/rear_cab/s70_black.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.8228 {
+ data_path: "/def/vehicle/truck/intnational.9900i/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.a7a8 {
+ data_path: "/def/vehicle/truck/intnational.9900i/chassis/chs_6x4_short.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9ba8 {
+ data_path: "/def/vehicle/truck/intnational.9900i/cabin/day.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.a0e8 {
+ data_path: "/def/vehicle/truck/intnational.9900i/interior/day_dark.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9908 {
+ data_path: "/def/vehicle/truck/intnational.9900i/engine/isx15_450.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.a868 {
+ data_path: "/def/vehicle/truck/intnational.9900i/transmission/10_speed.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9f68 {
+ data_path: "/def/vehicle/truck/intnational.9900i/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.db48 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3cf27bb3, &3d8c49ba, &3e43c9ef)
+ data_path: "/def/vehicle/truck/intnational.9900i/paint_job/color0.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f128 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f438 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e558 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e478 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_01_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.ef68 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e4e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.fc18 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f4a8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f748 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f048 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e638 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.f518 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7f78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/bumper/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.80f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/doorhndl/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6838 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/exhaust/day_back.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8038 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/f_light_chs/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.6a78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/filters/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7078 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/grill/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.74f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/hood/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7138 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/mirror/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.72b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/mudflaps/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7978 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/sideflares/paint_short.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7af8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/sideskirt/short_base.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7bb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/steering_w/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7df8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/sunshield/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.7eb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/tank/short_alu_200.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.81b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/intnational.9900i/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9128 {
+ data_path: "/def/vehicle/truck/westernstar.49x/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9fc8 {
+ data_path: "/def/vehicle/truck/westernstar.49x/chassis/6x4_long_150.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9968 {
+ data_path: "/def/vehicle/truck/westernstar.49x/cabin/s72.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.a028 {
+ data_path: "/def/vehicle/truck/westernstar.49x/interior/s72_prm.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.a088 {
+ data_path: "/def/vehicle/truck/westernstar.49x/engine/dd16_600.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.a628 {
+ data_path: "/def/vehicle/truck/westernstar.49x/transmission/dt12_oc.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9c68 {
+ data_path: "/def/vehicle/truck/westernstar.49x/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.dd58 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3eaca0c3, &3b1f1f15, &3b1f1f15)
+ data_path: "/def/vehicle/truck/westernstar.49x/paint_job/color3.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.fba8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e788 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e948 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e0f8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e168 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e408 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e9b8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.ea28 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e328 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e398 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.e5c8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.ea98 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_legacy.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.84b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/badge/detroit.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.8338 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/bumper/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.83f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/doorhndl/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9d78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/filters/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.90b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_fender/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9e38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_light_chs/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.93b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_logo/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9778 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/f_mudflap/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9178 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/exhaust/stock_sleep.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9b38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/grill/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9bf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/hood/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9238 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/mirror/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.96b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/mudflaps/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9cb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/mudguard/chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9478 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/radiator/big.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.92f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/rear_cab/chrome_cover_sleep.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.95f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/rear2_cab/hvac.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9538 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/s_deflector/s72.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9838 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/sideflares/chrome_s72.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.99b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/sideskirt/long_150_chrome.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9ef8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/steering_w/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.9a78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/sunshield/chrome_sleep.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e03.98f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/westernstar.49x/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.96c8 {
+ data_path: "/def/vehicle/truck/mack.anthem/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9728 {
+ data_path: "/def/vehicle/truck/mack.anthem/chassis/6x4_long_142.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.98a8 {
+ data_path: "/def/vehicle/truck/mack.anthem/cabin/sleeper_70.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9cc8 {
+ data_path: "/def/vehicle/truck/mack.anthem/interior/s70_standard.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9a28 {
+ data_path: "/def/vehicle/truck/mack.anthem/engine/mp8_445.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9d88 {
+ data_path: "/def/vehicle/truck/mack.anthem/transmission/mdrive_ato2612f.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.9e48 {
+ data_path: "/def/vehicle/truck/mack.anthem/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5e.ec58 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.0fc8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.04d8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.0b68 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.0778 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.12d8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.15e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.16c8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.03f8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.1738 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.17a8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.10a8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.05b8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.09a8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.07e8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.f1f8 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3f19999a, &3f19999a, &3f19999a)
+ data_path: "/def/vehicle/truck/mack.anthem/paint_job/color1.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3938 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/mirror/paint_dog.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1778 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/bumper/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.19b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/exhaust/s70_double.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3ab8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/mudflaps/standard_mack.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2138 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/mudguard/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.24f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/doorhndl/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.31b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/steering_w/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.22b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.21f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/grill/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3638 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/sideskirt/long_142_paint_chrom_step.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2078 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/sideflares/s70_orange.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2978 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/filters/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2f78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/hood/stock.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3278 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/ornament/gold_dog.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2378 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/f_light_chs/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3e78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/sunshield/s70_lights_standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.36f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/hndrail/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.37b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/slp_hndl/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.39f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/windowtrim/s70_plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.12f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/rear_cab/s70_black.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.be88 {
+ data_path: "/def/vehicle/truck/volvo.vnl2025/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.c068 {
+ data_path: "/def/vehicle/truck/volvo.vnl2025/cabin/dc.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.b8e8 {
+ data_path: "/def/vehicle/truck/volvo.vnl2025/chassis/dc_190_6x2m.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.b108 {
+ data_path: "/def/vehicle/truck/volvo.vnl2025/interior/dc_core.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.bf48 {
+ data_path: "/def/vehicle/truck/volvo.vnl2025/engine/d13_405tc.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.b888 {
+ data_path: "/def/vehicle/truck/volvo.vnl2025/head_light/led.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.b168 {
+ data_path: "/def/vehicle/truck/volvo.vnl2025/transmission/ishift_at2612g.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.e018 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (1, 1, 1)
+ flip_color: (1, 1, 1)
+ base_color: (&3e1fab11, &3e2c4eb5, &3e2c4eb5)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/paint_job/color10_a.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.0858 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.08c8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.0a88 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.0af8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_01_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2a08 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.3418 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2ae8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.3108 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2a78 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.1f88 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2bc8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2ed8 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.25b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/badge/volvo.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1bf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/bumper/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3cf8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/cabdefl/standard_lights_dc.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1e38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/carpet/single_rubber.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2438 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/codrv_seat/x1_fabric.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3878 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/doorhndl/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.15f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/doorstep/aluminum.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1cb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/exhaust/bottom_dc.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3db8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/f_light_chs/led.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1b38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/f_logo/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3338 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/f_window/basic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2678 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/filters/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1d78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/grill/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.18f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/hood/standard.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2eb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/int_display/none.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.33f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/mirror/standard_plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3c38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/mudflaps/modern.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2a38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/r_bumper/modern.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1ef8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/r_fender/plastic.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.10b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/s_deflector/dc_low.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1a78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/s_logo/vnl_300.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2738 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/sideskirt/standard_plastic_dc.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1fb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/sideskrt_bar/aero_dc.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3f38 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/tank/short_150_aluminum_sideskirt.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.16b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/steering_w/core.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.27f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/volvo.vnl2025/accessory/trlr_cables/dc.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.ba08 {
+ data_path: "/def/vehicle/truck/kenworth.t680/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.ba68 {
+ data_path: "/def/vehicle/truck/kenworth.t680/chassis/long.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.bac8 {
+ data_path: "/def/vehicle/truck/kenworth.t680/cabin/standard.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.bb28 {
+ data_path: "/def/vehicle/truck/kenworth.t680/interior/cab_b_n_g.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.b048 {
+ data_path: "/def/vehicle/truck/kenworth.t680/engine/isx12.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.be28 {
+ data_path: "/def/vehicle/truck/kenworth.t680/transmission/13_speed.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.234.0b8f.a988 {
+ data_path: "/def/vehicle/truck/kenworth.t680/head_light/standard.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.1c08 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.1c78 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_disc/front_disc_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.20d8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.1dc8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2378 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.27d8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.23e8 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2538 {
+ offset: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2458 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_tire/1.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2618 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_disc/rear_disc_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2768 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.234.0e5f.2848 {
+ offset: 2
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.234.0332.de08 {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ flake_color: (0, 1, 0)
+ flip_color: (1, 0, 0)
+ base_color: (&3f133333, &3ec00000, &3c23d70a)
+ data_path: "/def/vehicle/truck/kenworth.t680/paint_job/color4.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2af8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/mirror/shape1.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1178 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/bumper/shape01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.28b8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/sideskirt/shape05.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.30f8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/exhaust/shape03.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2bb8 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/mudflaps/shape02.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.1238 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/doorhndl/shape1.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.2c78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/steering_w/default.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.234.0e42.3b78 {
+ slot_name: 0
+ slot_hookup: 0
+ paint_color: (1, 1, 1)
+ data_path: "/def/vehicle/truck/kenworth.t680/accessory/trlr_cables/stock.sii"
+ refund: 0
+}
